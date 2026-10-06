@@ -1,1 +1,1 @@
-# Dependencies will be added as each project stage is implemented.
+requests>=2.32,<3
