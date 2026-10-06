@@ -1,67 +1,99 @@
 # SocialPulse
 
-An early-warning research project for sharp increases in youth
-unemployment using World Bank Indicators API data.
+A research prototype for exploring youth unemployment, comparing historical country conditions, and evaluating early-warning models using World Bank Indicators API data.
+
+## Features
+
+- Country-level exploration of six socioeconomic indicators.
+- Historical charts and missing-data information.
+- Descriptive historical analogues with subsequent unemployment outcomes.
+- Transparent development, backtest, and reserved-test results.
 
 ## Research question
 
-Can information available at a prediction date identify countries
-at risk of a sharp increase in youth unemployment within the next
-two years, better than simple baseline methods?
+Can information associated with a country-year identify a substantial increase in youth unemployment within the following two years?
 
-## Scope
+The primary event is an increase of at least **3 percentage points** in either following year relative to the starting year. Both future years must be available to create a label.
 
-- Unit of analysis: country-year.
-- Forecast horizon: two years.
-- Primary outcome: a threshold increase in youth unemployment
-  in either of the following two years.
-- The event threshold will be selected after training-data analysis.
-- Historical analogues will provide context for model predictions.
+## Data
 
-## Data source
+The initial panel covers 217 countries/economies and 2000–2025. Coverage varies by indicator.
 
-World Bank Indicators API.
+Indicators include youth unemployment, GDP growth, inflation, FDI, trade, and youth labor-force participation.
 
-Candidate target indicator:
-SL.UEM.1524.ZS — Youth unemployment, total, modeled ILO estimate.
+Source: [World Bank Indicators API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation).
 
-Country coverage, time coverage, and predictor availability
-will be checked before modeling.
+The labor indicators used here are ILO modeled estimates distributed through World Bank. Download timestamps and indicator metadata are included with the demo snapshot.
 
-## Planned workflow
+Data remain subject to their source terms and attribution requirements; inclusion in this repository does not change their licensing. See [World Bank data licensing](https://datacatalog.worldbank.org/public-licenses) and the bundled indicator metadata.
 
-1. Retrieve and version API data and metadata.
-2. Audit coverage, missing values, and data quality.
-3. Build country-year features and future event labels.
-4. Evaluate simple baselines with time-based backtesting.
-5. Compare candidate models and assess probability calibration.
-6. Add model explanations and historical analogues.
-7. Build an interactive country analysis interface.
+## Modeling and evaluation
 
-## Project structure
+The project compares a constant training-prevalence baseline, logistic regression using unemployment history, and logistic regression using all 18 engineered features.
 
-- src/socialpulse/: data and modeling code
-- data/raw/: original API responses
-- data/processed/: prepared datasets
-- notebooks/: exploratory analysis
-- reports/: data audits and evaluation results
-- models/: trained model artifacts
-- app/: application interface
-- docs/: project plan and methodology
-- tests/: checks for critical pipeline logic
+Preprocessing is fitted on training data only. Expanding-window backtests respect the two-year label horizon.
 
-## Current status
+The selected history-only model was fitted on origin years 2002–2019 and evaluated without retraining on reserved origin years 2022–2023.
 
-Project setup. No trained model or validated predictions yet.
+| Test year | Event rate | Model AP | Constant baseline AP | Positive cases in top 10 |
+|---|---:|---:|---:|---:|
+| 2022 | 3.85% | 0.0340 | 0.0385 | 0 |
+| 2023 | 1.65% | 0.0307 | 0.0165 | 0 |
 
-## Reproducibility
+These results do **not** establish reliable operational early-warning performance. The dashboard presents a research prototype and does not assign validated risk categories.
 
-Setup and execution instructions will be added as the pipeline
-is implemented. Downloaded datasets and model artifacts are
-excluded from Git by default.
+## Historical analogues
+
+The dashboard compares six standardized indicator levels against complete historical cases whose two-year outcomes end before the selected reference year.
+
+It shows at most five distinct countries within an exploratory distance cutoff. Matching outcomes are descriptive, not forecast probabilities or causal explanations.
+
+## Run the dashboard
+
+From the repository root:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python -m streamlit run app/12_dashboard.py
+```
+
+The packaged data in `app/data` allow the dashboard to run without downloading data or training models.
+
+## Reproduce the research pipeline
+
+Run the numbered scripts in `src/socialpulse`.
+
+- `01`–`02`: single-country API example.
+- `03`–`05`: panel download, preparation and coverage audit.
+- `06`: development-period target audit.
+- `07`: features and event labels.
+- `08`–`10`: baseline evaluation and historical backtests.
+- `11`: reserved-test evaluation and model saving.
+- `14`: package the prepared panel for the dashboard.
+
+`docs/experiment_config.json` identifies the research snapshot and configuration. `docs/model_decision.json` records the selected final model.
+
+A fresh API download creates a new snapshot and may contain revised historical values. To study it, update the configured snapshot and regenerate downstream artifacts as a new experiment. Original results are not guaranteed to reproduce from a later API release.
+
+The final-test script intentionally refuses to overwrite existing final metrics. Do not repeatedly tune models against the reserved test.
 
 ## Limitations
 
-This project estimates the risk of a defined unemployment increase.
-It does not measure every aspect of youth employment conditions
-or establish causal effects.
+- Evaluation uses a current data snapshot, not historical release vintages.
+- Publication delays are not fully reconstructed.
+- Modeled estimates are not all direct observations.
+- Overlapping forecast windows and shared economic shocks create dependence.
+- The reserved test contains few positive windows.
+- Model probabilities are not established as well calibrated.
+- Historical similarity does not imply the same future outcome.
+
+## Repository structure
+
+- `src/socialpulse`: research scripts.
+- `app`: dashboard, analogue component and packaged demo data.
+- `docs`: experiment configuration and model decision.
+- `reports`: coverage and model-evaluation reports.
+- `data`: local research data, excluded from Git by default.
+- `models`: local fitted models, excluded from Git by default.

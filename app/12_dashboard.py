@@ -1,5 +1,6 @@
 """SocialPulse research dashboard."""
 
+import runpy
 import json
 from pathlib import Path
 
@@ -29,7 +30,7 @@ with config_path.open(encoding="utf-8") as file:
 
 run_id = config["source_run"]
 panel_path = (
-    ROOT / "data" / "processed" / run_id / "country_year_panel.csv"
+    ROOT / "app" / "data" / run_id / "country_year_panel.csv.gz"
 )
 report_dir = ROOT / "reports" / run_id
 
@@ -174,7 +175,7 @@ with quality:
         "at a past forecast date. Missing values are not zero."
     )
 
-    manifest_path = ROOT / "data" / "raw" / run_id / "manifest.json"
+    manifest_path = ROOT / "app" / "data" / run_id / "manifest.json"
 
     if manifest_path.exists():
         with manifest_path.open(encoding="utf-8") as file:
@@ -239,3 +240,14 @@ with evaluation:
     )
 
 st.caption("Source: World Bank Indicators API · Research prototype")
+
+analogue_tools = runpy.run_path(
+    str(ROOT / "app" / "13_historical_analogues.py")
+)
+
+analogue_tools["render_analogues"](
+    panel,
+    selected_country,
+    int(selected_year),
+    float(config["primary_threshold_pp"]),
+)

@@ -1,0 +1,35 @@
+{
+  "retrieved_at_utc": "2026-10-06T03:57:57.704616+00:00",
+  "request_url": "https://api.worldbank.org/v2/indicator/SL.TLF.ACTI.1524.ZS?source=2&format=json&per_page=1000&page=1",
+  "api_response": [
+    {
+      "page": 1,
+      "pages": 1,
+      "per_page": "1000",
+      "total": 1
+    },
+    [
+      {
+        "id": "SL.TLF.ACTI.1524.ZS",
+        "name": "Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",
+        "unit": "",
+        "source": {
+          "id": "2",
+          "value": "World Development Indicators"
+        },
+        "sourceNote": "Labor force participation rate for ages 15-24 is the proportion of the population ages 15-24 that is economically active: all people who supply labor for the production of goods and services during a specified period.",
+        "sourceOrganization": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: https://ilostat.ilo.org/data/bulk/, publisher: ILOSTAT, type: external database, date accessed: January 17, 2026",
+        "topics": [
+          {
+            "id": "10",
+            "value": "Social Protection & Labor"
+          },
+          {
+            "id": "15",
+            "value": "Social Development "
+          }
+        ]
+      }
+    ]
+  ]
+}

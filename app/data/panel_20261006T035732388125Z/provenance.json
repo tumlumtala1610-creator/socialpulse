@@ -1,0 +1,8 @@
+{
+  "source_run": "panel_20261006T035732388125Z",
+  "source": "World Bank Indicators API / World Development Indicators",
+  "source_url": "https://api.worldbank.org/v2",
+  "download_finished_at_utc": "2026-10-06T03:58:02.256131+00:00",
+  "panel_sha256": "9afd429a12e3067bece69a9b5f3760f1c504ab2af90faa72efbe4566c0b1c1d0",
+  "description": "Country-year table assembled from API responses. Aggregate regions excluded; missing values preserved."
+}

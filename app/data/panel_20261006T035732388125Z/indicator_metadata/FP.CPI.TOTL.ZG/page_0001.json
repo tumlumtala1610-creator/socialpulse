@@ -1,0 +1,35 @@
+{
+  "retrieved_at_utc": "2026-10-06T03:57:42.993868+00:00",
+  "request_url": "https://api.worldbank.org/v2/indicator/FP.CPI.TOTL.ZG?source=2&format=json&per_page=1000&page=1",
+  "api_response": [
+    {
+      "page": 1,
+      "pages": 1,
+      "per_page": "1000",
+      "total": 1
+    },
+    [
+      {
+        "id": "FP.CPI.TOTL.ZG",
+        "name": "Inflation, consumer prices (annual %)",
+        "unit": "",
+        "source": {
+          "id": "2",
+          "value": "World Development Indicators"
+        },
+        "sourceNote": "Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly.",
+        "sourceOrganization": "International Financial Statistics database, International Monetary Fund (IMF)",
+        "topics": [
+          {
+            "id": "3",
+            "value": "Economy & Growth"
+          },
+          {
+            "id": "7",
+            "value": "Financial Sector "
+          }
+        ]
+      }
+    ]
+  ]
+}
