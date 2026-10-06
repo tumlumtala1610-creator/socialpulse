@@ -1,0 +1,28 @@
+{
+  "source_run": "panel_20261006T035732388125Z",
+  "selected_model": "B1_history",
+  "features": [
+    "youth_unemployment_pct__level",
+    "youth_unemployment_pct__change_1y",
+    "youth_unemployment_pct__trend_3y"
+  ],
+  "primary_threshold_pp": 3.0,
+  "forecast_horizon_years": 2,
+  "training_origin_years": [
+    2002,
+    2019
+  ],
+  "test_origin_years": [
+    2022,
+    2023
+  ],
+  "top_k": 10,
+  "C": 1.0,
+  "solver": "lbfgs",
+  "max_iter": 3000,
+  "probabilities_calibrated": false,
+  "python_version": "3.14.0",
+  "sklearn_version": "1.9.1",
+  "numpy_version": "2.5.3",
+  "limitation": "Retrospective evaluation using current data vintage"
+}
