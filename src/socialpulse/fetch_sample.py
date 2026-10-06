@@ -11,7 +11,7 @@ import requests
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 RAW_DIR = PROJECT_ROOT / "data" / "raw"
 
-COUNTRY = "VNM"
+COUNTRY = "NLD"
 INDICATOR = "SL.UEM.1524.ZS"
 
 URL = (
@@ -28,7 +28,7 @@ def main():
         "page": 1,
     }
 
-    print("Downloading Vietnam youth unemployment data...")
+    print("Downloading Dutch youth unemployment data...")
 
     response = requests.get(
         URL,
