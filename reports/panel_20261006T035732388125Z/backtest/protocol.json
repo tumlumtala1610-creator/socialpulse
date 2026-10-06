@@ -1,0 +1,45 @@
+{
+  "config": {
+    "source_run": "panel_20261006T035732388125Z",
+    "forecast_horizon_years": 2,
+    "primary_threshold_pp": 3.0,
+    "sensitivity_threshold_pp": 2.0,
+    "train_years": [
+      2002,
+      2014
+    ],
+    "validation_years": [
+      2017,
+      2019
+    ],
+    "test_years": [
+      2022,
+      2023
+    ],
+    "feature_start_year": 2002,
+    "feature_end_year": 2025,
+    "indicators": [
+      "youth_unemployment_pct",
+      "gdp_growth_pct",
+      "inflation_pct",
+      "fdi_pct_gdp",
+      "trade_pct_gdp",
+      "youth_labor_force_participation_pct"
+    ]
+  },
+  "backtest_years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "training_rule": "origin year <= prediction year - horizon - 1",
+  "data_limitation": "Retrospective backtest using current data vintage",
+  "test_evaluated": false
+}
