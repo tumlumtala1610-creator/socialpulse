@@ -1,0 +1,7 @@
+indicator,indicator_code,expected_country_years,available_values,missing_values,coverage_pct,aggregate_records_excluded
+youth_unemployment_pct,SL.UEM.1524.ZS,5642,4848,794,85.93,1248
+gdp_growth_pct,NY.GDP.MKTP.KD.ZG,5642,5354,288,94.9,1248
+inflation_pct,FP.CPI.TOTL.ZG,5642,4684,958,83.02,1248
+fdi_pct_gdp,BX.KLT.DINV.WD.GD.ZS,5642,4916,726,87.13,1248
+trade_pct_gdp,NE.TRD.GNFS.ZS,5642,4588,1054,81.32,1248
+youth_labor_force_participation_pct,SL.TLF.ACTI.1524.ZS,5642,4848,794,85.93,1248

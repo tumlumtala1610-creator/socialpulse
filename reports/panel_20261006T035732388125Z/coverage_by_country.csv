@@ -1,0 +1,1303 @@
+country_code,country_name,indicator,expected_years,available_years,coverage_pct,first_available_year,last_available_year
+ABW,Aruba,youth_unemployment_pct,26,0,0.0,,
+AFG,Afghanistan,youth_unemployment_pct,26,26,100.0,2000,2025
+AGO,Angola,youth_unemployment_pct,26,26,100.0,2000,2025
+ALB,Albania,youth_unemployment_pct,26,26,100.0,2000,2025
+AND,Andorra,youth_unemployment_pct,26,0,0.0,,
+ARE,United Arab Emirates,youth_unemployment_pct,26,26,100.0,2000,2025
+ARG,Argentina,youth_unemployment_pct,26,26,100.0,2000,2025
+ARM,Armenia,youth_unemployment_pct,26,26,100.0,2000,2025
+ASM,American Samoa,youth_unemployment_pct,26,0,0.0,,
+ATG,Antigua and Barbuda,youth_unemployment_pct,26,0,0.0,,
+AUS,Australia,youth_unemployment_pct,26,26,100.0,2000,2025
+AUT,Austria,youth_unemployment_pct,26,26,100.0,2000,2025
+AZE,Azerbaijan,youth_unemployment_pct,26,26,100.0,2000,2025
+BDI,Burundi,youth_unemployment_pct,26,26,100.0,2000,2025
+BEL,Belgium,youth_unemployment_pct,26,26,100.0,2000,2025
+BEN,Benin,youth_unemployment_pct,26,26,100.0,2000,2025
+BFA,Burkina Faso,youth_unemployment_pct,26,26,100.0,2000,2025
+BGD,Bangladesh,youth_unemployment_pct,26,26,100.0,2000,2025
+BGR,Bulgaria,youth_unemployment_pct,26,26,100.0,2000,2025
+BHR,Bahrain,youth_unemployment_pct,26,26,100.0,2000,2025
+BHS,"Bahamas, The",youth_unemployment_pct,26,26,100.0,2000,2025
+BIH,Bosnia and Herzegovina,youth_unemployment_pct,26,26,100.0,2000,2025
+BLR,Belarus,youth_unemployment_pct,26,26,100.0,2000,2025
+BLZ,Belize,youth_unemployment_pct,26,26,100.0,2000,2025
+BMU,Bermuda,youth_unemployment_pct,26,0,0.0,,
+BOL,Bolivia,youth_unemployment_pct,26,26,100.0,2000,2025
+BRA,Brazil,youth_unemployment_pct,26,26,100.0,2000,2025
+BRB,Barbados,youth_unemployment_pct,26,26,100.0,2000,2025
+BRN,Brunei Darussalam,youth_unemployment_pct,26,26,100.0,2000,2025
+BTN,Bhutan,youth_unemployment_pct,26,26,100.0,2000,2025
+BWA,Botswana,youth_unemployment_pct,26,26,100.0,2000,2025
+CAF,Central African Republic,youth_unemployment_pct,26,26,100.0,2000,2025
+CAN,Canada,youth_unemployment_pct,26,26,100.0,2000,2025
+CHE,Switzerland,youth_unemployment_pct,26,26,100.0,2000,2025
+CHI,Channel Islands,youth_unemployment_pct,26,26,100.0,2000,2025
+CHL,Chile,youth_unemployment_pct,26,26,100.0,2000,2025
+CHN,China,youth_unemployment_pct,26,26,100.0,2000,2025
+CIV,Cote d'Ivoire,youth_unemployment_pct,26,26,100.0,2000,2025
+CMR,Cameroon,youth_unemployment_pct,26,26,100.0,2000,2025
+COD,"Congo, Dem. Rep.",youth_unemployment_pct,26,26,100.0,2000,2025
+COG,"Congo, Rep.",youth_unemployment_pct,26,26,100.0,2000,2025
+COL,Colombia,youth_unemployment_pct,26,26,100.0,2000,2025
+COM,Comoros,youth_unemployment_pct,26,26,100.0,2000,2025
+CPV,Cabo Verde,youth_unemployment_pct,26,26,100.0,2000,2025
+CRI,Costa Rica,youth_unemployment_pct,26,26,100.0,2000,2025
+CUB,Cuba,youth_unemployment_pct,26,26,100.0,2000,2025
+CUW,Curacao,youth_unemployment_pct,26,0,0.0,,
+CYM,Cayman Islands,youth_unemployment_pct,26,0,0.0,,
+CYP,Cyprus,youth_unemployment_pct,26,26,100.0,2000,2025
+CZE,Czechia,youth_unemployment_pct,26,26,100.0,2000,2025
+DEU,Germany,youth_unemployment_pct,26,26,100.0,2000,2025
+DJI,Djibouti,youth_unemployment_pct,26,26,100.0,2000,2025
+DMA,Dominica,youth_unemployment_pct,26,0,0.0,,
+DNK,Denmark,youth_unemployment_pct,26,26,100.0,2000,2025
+DOM,Dominican Republic,youth_unemployment_pct,26,26,100.0,2000,2025
+DZA,Algeria,youth_unemployment_pct,26,26,100.0,2000,2025
+ECU,Ecuador,youth_unemployment_pct,26,26,100.0,2000,2025
+EGY,"Egypt, Arab Rep.",youth_unemployment_pct,26,26,100.0,2000,2025
+ERI,Eritrea,youth_unemployment_pct,26,26,100.0,2000,2025
+ESP,Spain,youth_unemployment_pct,26,26,100.0,2000,2025
+EST,Estonia,youth_unemployment_pct,26,26,100.0,2000,2025
+ETH,Ethiopia,youth_unemployment_pct,26,26,100.0,2000,2025
+FIN,Finland,youth_unemployment_pct,26,26,100.0,2000,2025
+FJI,Fiji,youth_unemployment_pct,26,26,100.0,2000,2025
+FRA,France,youth_unemployment_pct,26,26,100.0,2000,2025
+FRO,Faroe Islands,youth_unemployment_pct,26,0,0.0,,
+FSM,"Micronesia, Fed. Sts.",youth_unemployment_pct,26,0,0.0,,
+GAB,Gabon,youth_unemployment_pct,26,26,100.0,2000,2025
+GBR,United Kingdom,youth_unemployment_pct,26,26,100.0,2000,2025
+GEO,Georgia,youth_unemployment_pct,26,26,100.0,2000,2025
+GHA,Ghana,youth_unemployment_pct,26,26,100.0,2000,2025
+GIB,Gibraltar,youth_unemployment_pct,26,0,0.0,,
+GIN,Guinea,youth_unemployment_pct,26,26,100.0,2000,2025
+GMB,"Gambia, The",youth_unemployment_pct,26,26,100.0,2000,2025
+GNB,Guinea-Bissau,youth_unemployment_pct,26,26,100.0,2000,2025
+GNQ,Equatorial Guinea,youth_unemployment_pct,26,26,100.0,2000,2025
+GRC,Greece,youth_unemployment_pct,26,26,100.0,2000,2025
+GRD,Grenada,youth_unemployment_pct,26,0,0.0,,
+GRL,Greenland,youth_unemployment_pct,26,0,0.0,,
+GTM,Guatemala,youth_unemployment_pct,26,26,100.0,2000,2025
+GUM,Guam,youth_unemployment_pct,26,26,100.0,2000,2025
+GUY,Guyana,youth_unemployment_pct,26,26,100.0,2000,2025
+HKG,"Hong Kong SAR, China",youth_unemployment_pct,26,26,100.0,2000,2025
+HND,Honduras,youth_unemployment_pct,26,26,100.0,2000,2025
+HRV,Croatia,youth_unemployment_pct,26,26,100.0,2000,2025
+HTI,Haiti,youth_unemployment_pct,26,26,100.0,2000,2025
+HUN,Hungary,youth_unemployment_pct,26,26,100.0,2000,2025
+IDN,Indonesia,youth_unemployment_pct,26,26,100.0,2000,2025
+IMN,Isle of Man,youth_unemployment_pct,26,0,0.0,,
+IND,India,youth_unemployment_pct,26,26,100.0,2000,2025
+IRL,Ireland,youth_unemployment_pct,26,26,100.0,2000,2025
+IRN,"Iran, Islamic Rep.",youth_unemployment_pct,26,26,100.0,2000,2025
+IRQ,Iraq,youth_unemployment_pct,26,26,100.0,2000,2025
+ISL,Iceland,youth_unemployment_pct,26,26,100.0,2000,2025
+ISR,Israel,youth_unemployment_pct,26,26,100.0,2000,2025
+ITA,Italy,youth_unemployment_pct,26,26,100.0,2000,2025
+JAM,Jamaica,youth_unemployment_pct,26,26,100.0,2000,2025
+JOR,Jordan,youth_unemployment_pct,26,26,100.0,2000,2025
+JPN,Japan,youth_unemployment_pct,26,26,100.0,2000,2025
+KAZ,Kazakhstan,youth_unemployment_pct,26,26,100.0,2000,2025
+KEN,Kenya,youth_unemployment_pct,26,26,100.0,2000,2025
+KGZ,Kyrgyz Republic,youth_unemployment_pct,26,26,100.0,2000,2025
+KHM,Cambodia,youth_unemployment_pct,26,26,100.0,2000,2025
+KIR,Kiribati,youth_unemployment_pct,26,0,0.0,,
+KNA,St. Kitts and Nevis,youth_unemployment_pct,26,0,0.0,,
+KOR,"Korea, Rep.",youth_unemployment_pct,26,26,100.0,2000,2025
+KWT,Kuwait,youth_unemployment_pct,26,26,100.0,2000,2025
+LAO,Lao PDR,youth_unemployment_pct,26,26,100.0,2000,2025
+LBN,Lebanon,youth_unemployment_pct,26,24,92.31,2000,2023
+LBR,Liberia,youth_unemployment_pct,26,26,100.0,2000,2025
+LBY,Libya,youth_unemployment_pct,26,26,100.0,2000,2025
+LCA,St. Lucia,youth_unemployment_pct,26,26,100.0,2000,2025
+LIE,Liechtenstein,youth_unemployment_pct,26,0,0.0,,
+LKA,Sri Lanka,youth_unemployment_pct,26,26,100.0,2000,2025
+LSO,Lesotho,youth_unemployment_pct,26,26,100.0,2000,2025
+LTU,Lithuania,youth_unemployment_pct,26,26,100.0,2000,2025
+LUX,Luxembourg,youth_unemployment_pct,26,26,100.0,2000,2025
+LVA,Latvia,youth_unemployment_pct,26,26,100.0,2000,2025
+MAC,"Macao SAR, China",youth_unemployment_pct,26,26,100.0,2000,2025
+MAF,St. Martin (French part),youth_unemployment_pct,26,0,0.0,,
+MAR,Morocco,youth_unemployment_pct,26,26,100.0,2000,2025
+MCO,Monaco,youth_unemployment_pct,26,0,0.0,,
+MDA,Moldova,youth_unemployment_pct,26,26,100.0,2000,2025
+MDG,Madagascar,youth_unemployment_pct,26,26,100.0,2000,2025
+MDV,Maldives,youth_unemployment_pct,26,26,100.0,2000,2025
+MEX,Mexico,youth_unemployment_pct,26,26,100.0,2000,2025
+MHL,Marshall Islands,youth_unemployment_pct,26,0,0.0,,
+MKD,North Macedonia,youth_unemployment_pct,26,26,100.0,2000,2025
+MLI,Mali,youth_unemployment_pct,26,26,100.0,2000,2025
+MLT,Malta,youth_unemployment_pct,26,26,100.0,2000,2025
+MMR,Myanmar,youth_unemployment_pct,26,26,100.0,2000,2025
+MNE,Montenegro,youth_unemployment_pct,26,26,100.0,2000,2025
+MNG,Mongolia,youth_unemployment_pct,26,26,100.0,2000,2025
+MNP,Northern Mariana Islands,youth_unemployment_pct,26,0,0.0,,
+MOZ,Mozambique,youth_unemployment_pct,26,26,100.0,2000,2025
+MRT,Mauritania,youth_unemployment_pct,26,26,100.0,2000,2025
+MUS,Mauritius,youth_unemployment_pct,26,26,100.0,2000,2025
+MWI,Malawi,youth_unemployment_pct,26,26,100.0,2000,2025
+MYS,Malaysia,youth_unemployment_pct,26,26,100.0,2000,2025
+NAM,Namibia,youth_unemployment_pct,26,26,100.0,2000,2025
+NCL,New Caledonia,youth_unemployment_pct,26,26,100.0,2000,2025
+NER,Niger,youth_unemployment_pct,26,26,100.0,2000,2025
+NGA,Nigeria,youth_unemployment_pct,26,26,100.0,2000,2025
+NIC,Nicaragua,youth_unemployment_pct,26,26,100.0,2000,2025
+NLD,Netherlands,youth_unemployment_pct,26,26,100.0,2000,2025
+NOR,Norway,youth_unemployment_pct,26,26,100.0,2000,2025
+NPL,Nepal,youth_unemployment_pct,26,26,100.0,2000,2025
+NRU,Naoero,youth_unemployment_pct,26,0,0.0,,
+NZL,New Zealand,youth_unemployment_pct,26,26,100.0,2000,2025
+OMN,Oman,youth_unemployment_pct,26,26,100.0,2000,2025
+PAK,Pakistan,youth_unemployment_pct,26,26,100.0,2000,2025
+PAN,Panama,youth_unemployment_pct,26,26,100.0,2000,2025
+PER,Peru,youth_unemployment_pct,26,26,100.0,2000,2025
+PHL,Philippines,youth_unemployment_pct,26,26,100.0,2000,2025
+PLW,Palau,youth_unemployment_pct,26,0,0.0,,
+PNG,Papua New Guinea,youth_unemployment_pct,26,26,100.0,2000,2025
+POL,Poland,youth_unemployment_pct,26,26,100.0,2000,2025
+PRI,Puerto Rico (US),youth_unemployment_pct,26,26,100.0,2000,2025
+PRK,"Korea, Dem. People's Rep.",youth_unemployment_pct,26,26,100.0,2000,2025
+PRT,Portugal,youth_unemployment_pct,26,26,100.0,2000,2025
+PRY,Paraguay,youth_unemployment_pct,26,26,100.0,2000,2025
+PSE,West Bank and Gaza,youth_unemployment_pct,26,23,88.46,2000,2022
+PYF,French Polynesia,youth_unemployment_pct,26,26,100.0,2000,2025
+QAT,Qatar,youth_unemployment_pct,26,26,100.0,2000,2025
+ROU,Romania,youth_unemployment_pct,26,26,100.0,2000,2025
+RUS,Russian Federation,youth_unemployment_pct,26,26,100.0,2000,2025
+RWA,Rwanda,youth_unemployment_pct,26,26,100.0,2000,2025
+SAU,Saudi Arabia,youth_unemployment_pct,26,26,100.0,2000,2025
+SDN,Sudan,youth_unemployment_pct,26,23,88.46,2000,2022
+SEN,Senegal,youth_unemployment_pct,26,26,100.0,2000,2025
+SGP,Singapore,youth_unemployment_pct,26,26,100.0,2000,2025
+SLB,Solomon Islands,youth_unemployment_pct,26,26,100.0,2000,2025
+SLE,Sierra Leone,youth_unemployment_pct,26,26,100.0,2000,2025
+SLV,El Salvador,youth_unemployment_pct,26,26,100.0,2000,2025
+SMR,San Marino,youth_unemployment_pct,26,0,0.0,,
+SOM,"Somalia, Fed. Rep.",youth_unemployment_pct,26,26,100.0,2000,2025
+SRB,Serbia,youth_unemployment_pct,26,26,100.0,2000,2025
+SSD,South Sudan,youth_unemployment_pct,26,24,92.31,2000,2023
+STP,Sao Tome and Principe,youth_unemployment_pct,26,26,100.0,2000,2025
+SUR,Suriname,youth_unemployment_pct,26,26,100.0,2000,2025
+SVK,Slovak Republic,youth_unemployment_pct,26,26,100.0,2000,2025
+SVN,Slovenia,youth_unemployment_pct,26,26,100.0,2000,2025
+SWE,Sweden,youth_unemployment_pct,26,26,100.0,2000,2025
+SWZ,Eswatini,youth_unemployment_pct,26,26,100.0,2000,2025
+SXM,Sint Maarten (Dutch part),youth_unemployment_pct,26,0,0.0,,
+SYC,Seychelles,youth_unemployment_pct,26,0,0.0,,
+SYR,Syrian Arab Republic,youth_unemployment_pct,26,26,100.0,2000,2025
+TCA,Turks and Caicos Islands,youth_unemployment_pct,26,0,0.0,,
+TCD,Chad,youth_unemployment_pct,26,26,100.0,2000,2025
+TGO,Togo,youth_unemployment_pct,26,26,100.0,2000,2025
+THA,Thailand,youth_unemployment_pct,26,26,100.0,2000,2025
+TJK,Tajikistan,youth_unemployment_pct,26,26,100.0,2000,2025
+TKM,Turkmenistan,youth_unemployment_pct,26,26,100.0,2000,2025
+TLS,Timor-Leste,youth_unemployment_pct,26,26,100.0,2000,2025
+TON,Tonga,youth_unemployment_pct,26,26,100.0,2000,2025
+TTO,Trinidad and Tobago,youth_unemployment_pct,26,26,100.0,2000,2025
+TUN,Tunisia,youth_unemployment_pct,26,26,100.0,2000,2025
+TUR,Turkiye,youth_unemployment_pct,26,26,100.0,2000,2025
+TUV,Tuvalu,youth_unemployment_pct,26,0,0.0,,
+TZA,Tanzania,youth_unemployment_pct,26,26,100.0,2000,2025
+UGA,Uganda,youth_unemployment_pct,26,26,100.0,2000,2025
+UKR,Ukraine,youth_unemployment_pct,26,22,84.62,2000,2021
+URY,Uruguay,youth_unemployment_pct,26,26,100.0,2000,2025
+USA,United States,youth_unemployment_pct,26,26,100.0,2000,2025
+UZB,Uzbekistan,youth_unemployment_pct,26,26,100.0,2000,2025
+VCT,St. Vincent and the Grenadines,youth_unemployment_pct,26,26,100.0,2000,2025
+VEN,"Venezuela, RB",youth_unemployment_pct,26,26,100.0,2000,2025
+VGB,British Virgin Islands,youth_unemployment_pct,26,0,0.0,,
+VIR,Virgin Islands (U.S.),youth_unemployment_pct,26,26,100.0,2000,2025
+VNM,Viet Nam,youth_unemployment_pct,26,26,100.0,2000,2025
+VUT,Vanuatu,youth_unemployment_pct,26,26,100.0,2000,2025
+WSM,Samoa,youth_unemployment_pct,26,26,100.0,2000,2025
+XKX,Kosovo,youth_unemployment_pct,26,0,0.0,,
+YEM,"Yemen, Rep.",youth_unemployment_pct,26,26,100.0,2000,2025
+ZAF,South Africa,youth_unemployment_pct,26,26,100.0,2000,2025
+ZMB,Zambia,youth_unemployment_pct,26,26,100.0,2000,2025
+ZWE,Zimbabwe,youth_unemployment_pct,26,26,100.0,2000,2025
+ABW,Aruba,gdp_growth_pct,26,25,96.15,2000,2024
+AFG,Afghanistan,gdp_growth_pct,26,24,92.31,2001,2024
+AGO,Angola,gdp_growth_pct,26,26,100.0,2000,2025
+ALB,Albania,gdp_growth_pct,26,26,100.0,2000,2025
+AND,Andorra,gdp_growth_pct,26,26,100.0,2000,2025
+ARE,United Arab Emirates,gdp_growth_pct,26,25,96.15,2000,2024
+ARG,Argentina,gdp_growth_pct,26,26,100.0,2000,2025
+ARM,Armenia,gdp_growth_pct,26,26,100.0,2000,2025
+ASM,American Samoa,gdp_growth_pct,26,20,76.92,2003,2022
+ATG,Antigua and Barbuda,gdp_growth_pct,26,26,100.0,2000,2025
+AUS,Australia,gdp_growth_pct,26,26,100.0,2000,2025
+AUT,Austria,gdp_growth_pct,26,26,100.0,2000,2025
+AZE,Azerbaijan,gdp_growth_pct,26,26,100.0,2000,2025
+BDI,Burundi,gdp_growth_pct,26,26,100.0,2000,2025
+BEL,Belgium,gdp_growth_pct,26,26,100.0,2000,2025
+BEN,Benin,gdp_growth_pct,26,26,100.0,2000,2025
+BFA,Burkina Faso,gdp_growth_pct,26,26,100.0,2000,2025
+BGD,Bangladesh,gdp_growth_pct,26,26,100.0,2000,2025
+BGR,Bulgaria,gdp_growth_pct,26,26,100.0,2000,2025
+BHR,Bahrain,gdp_growth_pct,26,26,100.0,2000,2025
+BHS,"Bahamas, The",gdp_growth_pct,26,25,96.15,2000,2024
+BIH,Bosnia and Herzegovina,gdp_growth_pct,26,26,100.0,2000,2025
+BLR,Belarus,gdp_growth_pct,26,26,100.0,2000,2025
+BLZ,Belize,gdp_growth_pct,26,26,100.0,2000,2025
+BMU,Bermuda,gdp_growth_pct,26,25,96.15,2000,2024
+BOL,Bolivia,gdp_growth_pct,26,26,100.0,2000,2025
+BRA,Brazil,gdp_growth_pct,26,26,100.0,2000,2025
+BRB,Barbados,gdp_growth_pct,26,26,100.0,2000,2025
+BRN,Brunei Darussalam,gdp_growth_pct,26,26,100.0,2000,2025
+BTN,Bhutan,gdp_growth_pct,26,26,100.0,2000,2025
+BWA,Botswana,gdp_growth_pct,26,26,100.0,2000,2025
+CAF,Central African Republic,gdp_growth_pct,26,26,100.0,2000,2025
+CAN,Canada,gdp_growth_pct,26,26,100.0,2000,2025
+CHE,Switzerland,gdp_growth_pct,26,26,100.0,2000,2025
+CHI,Channel Islands,gdp_growth_pct,26,14,53.85,2010,2023
+CHL,Chile,gdp_growth_pct,26,26,100.0,2000,2025
+CHN,China,gdp_growth_pct,26,26,100.0,2000,2025
+CIV,Cote d'Ivoire,gdp_growth_pct,26,26,100.0,2000,2025
+CMR,Cameroon,gdp_growth_pct,26,26,100.0,2000,2025
+COD,"Congo, Dem. Rep.",gdp_growth_pct,26,26,100.0,2000,2025
+COG,"Congo, Rep.",gdp_growth_pct,26,26,100.0,2000,2025
+COL,Colombia,gdp_growth_pct,26,26,100.0,2000,2025
+COM,Comoros,gdp_growth_pct,26,26,100.0,2000,2025
+CPV,Cabo Verde,gdp_growth_pct,26,26,100.0,2000,2025
+CRI,Costa Rica,gdp_growth_pct,26,26,100.0,2000,2025
+CUB,Cuba,gdp_growth_pct,26,25,96.15,2000,2024
+CUW,Curacao,gdp_growth_pct,26,24,92.31,2001,2024
+CYM,Cayman Islands,gdp_growth_pct,26,18,69.23,2007,2024
+CYP,Cyprus,gdp_growth_pct,26,26,100.0,2000,2025
+CZE,Czechia,gdp_growth_pct,26,26,100.0,2000,2025
+DEU,Germany,gdp_growth_pct,26,26,100.0,2000,2025
+DJI,Djibouti,gdp_growth_pct,26,12,46.15,2014,2025
+DMA,Dominica,gdp_growth_pct,26,26,100.0,2000,2025
+DNK,Denmark,gdp_growth_pct,26,26,100.0,2000,2025
+DOM,Dominican Republic,gdp_growth_pct,26,26,100.0,2000,2025
+DZA,Algeria,gdp_growth_pct,26,26,100.0,2000,2025
+ECU,Ecuador,gdp_growth_pct,26,26,100.0,2000,2025
+EGY,"Egypt, Arab Rep.",gdp_growth_pct,26,26,100.0,2000,2025
+ERI,Eritrea,gdp_growth_pct,26,12,46.15,2000,2011
+ESP,Spain,gdp_growth_pct,26,26,100.0,2000,2025
+EST,Estonia,gdp_growth_pct,26,26,100.0,2000,2025
+ETH,Ethiopia,gdp_growth_pct,26,26,100.0,2000,2025
+FIN,Finland,gdp_growth_pct,26,26,100.0,2000,2025
+FJI,Fiji,gdp_growth_pct,26,26,100.0,2000,2025
+FRA,France,gdp_growth_pct,26,26,100.0,2000,2025
+FRO,Faroe Islands,gdp_growth_pct,26,16,61.54,2009,2024
+FSM,"Micronesia, Fed. Sts.",gdp_growth_pct,26,26,100.0,2000,2025
+GAB,Gabon,gdp_growth_pct,26,26,100.0,2000,2025
+GBR,United Kingdom,gdp_growth_pct,26,26,100.0,2000,2025
+GEO,Georgia,gdp_growth_pct,26,26,100.0,2000,2025
+GHA,Ghana,gdp_growth_pct,26,26,100.0,2000,2025
+GIB,Gibraltar,gdp_growth_pct,26,0,0.0,,
+GIN,Guinea,gdp_growth_pct,26,26,100.0,2000,2025
+GMB,"Gambia, The",gdp_growth_pct,26,26,100.0,2000,2025
+GNB,Guinea-Bissau,gdp_growth_pct,26,26,100.0,2000,2025
+GNQ,Equatorial Guinea,gdp_growth_pct,26,26,100.0,2000,2025
+GRC,Greece,gdp_growth_pct,26,26,100.0,2000,2025
+GRD,Grenada,gdp_growth_pct,26,26,100.0,2000,2025
+GRL,Greenland,gdp_growth_pct,26,24,92.31,2000,2023
+GTM,Guatemala,gdp_growth_pct,26,26,100.0,2000,2025
+GUM,Guam,gdp_growth_pct,26,20,76.92,2003,2022
+GUY,Guyana,gdp_growth_pct,26,26,100.0,2000,2025
+HKG,"Hong Kong SAR, China",gdp_growth_pct,26,26,100.0,2000,2025
+HND,Honduras,gdp_growth_pct,26,26,100.0,2000,2025
+HRV,Croatia,gdp_growth_pct,26,26,100.0,2000,2025
+HTI,Haiti,gdp_growth_pct,26,26,100.0,2000,2025
+HUN,Hungary,gdp_growth_pct,26,26,100.0,2000,2025
+IDN,Indonesia,gdp_growth_pct,26,26,100.0,2000,2025
+IMN,Isle of Man,gdp_growth_pct,26,24,92.31,2000,2023
+IND,India,gdp_growth_pct,26,26,100.0,2000,2025
+IRL,Ireland,gdp_growth_pct,26,26,100.0,2000,2025
+IRN,"Iran, Islamic Rep.",gdp_growth_pct,26,26,100.0,2000,2025
+IRQ,Iraq,gdp_growth_pct,26,26,100.0,2000,2025
+ISL,Iceland,gdp_growth_pct,26,26,100.0,2000,2025
+ISR,Israel,gdp_growth_pct,26,26,100.0,2000,2025
+ITA,Italy,gdp_growth_pct,26,26,100.0,2000,2025
+JAM,Jamaica,gdp_growth_pct,26,26,100.0,2000,2025
+JOR,Jordan,gdp_growth_pct,26,26,100.0,2000,2025
+JPN,Japan,gdp_growth_pct,26,26,100.0,2000,2025
+KAZ,Kazakhstan,gdp_growth_pct,26,26,100.0,2000,2025
+KEN,Kenya,gdp_growth_pct,26,26,100.0,2000,2025
+KGZ,Kyrgyz Republic,gdp_growth_pct,26,26,100.0,2000,2025
+KHM,Cambodia,gdp_growth_pct,26,26,100.0,2000,2025
+KIR,Kiribati,gdp_growth_pct,26,26,100.0,2000,2025
+KNA,St. Kitts and Nevis,gdp_growth_pct,26,26,100.0,2000,2025
+KOR,"Korea, Rep.",gdp_growth_pct,26,26,100.0,2000,2025
+KWT,Kuwait,gdp_growth_pct,26,26,100.0,2000,2025
+LAO,Lao PDR,gdp_growth_pct,26,26,100.0,2000,2025
+LBN,Lebanon,gdp_growth_pct,26,25,96.15,2000,2024
+LBR,Liberia,gdp_growth_pct,26,26,100.0,2000,2025
+LBY,Libya,gdp_growth_pct,26,26,100.0,2000,2025
+LCA,St. Lucia,gdp_growth_pct,26,26,100.0,2000,2025
+LIE,Liechtenstein,gdp_growth_pct,26,10,38.46,2000,2009
+LKA,Sri Lanka,gdp_growth_pct,26,26,100.0,2000,2025
+LSO,Lesotho,gdp_growth_pct,26,26,100.0,2000,2025
+LTU,Lithuania,gdp_growth_pct,26,26,100.0,2000,2025
+LUX,Luxembourg,gdp_growth_pct,26,26,100.0,2000,2025
+LVA,Latvia,gdp_growth_pct,26,26,100.0,2000,2025
+MAC,"Macao SAR, China",gdp_growth_pct,26,26,100.0,2000,2025
+MAF,St. Martin (French part),gdp_growth_pct,26,7,26.92,2015,2021
+MAR,Morocco,gdp_growth_pct,26,26,100.0,2000,2025
+MCO,Monaco,gdp_growth_pct,26,25,96.15,2000,2024
+MDA,Moldova,gdp_growth_pct,26,26,100.0,2000,2025
+MDG,Madagascar,gdp_growth_pct,26,26,100.0,2000,2025
+MDV,Maldives,gdp_growth_pct,26,26,100.0,2000,2025
+MEX,Mexico,gdp_growth_pct,26,26,100.0,2000,2025
+MHL,Marshall Islands,gdp_growth_pct,26,26,100.0,2000,2025
+MKD,North Macedonia,gdp_growth_pct,26,26,100.0,2000,2025
+MLI,Mali,gdp_growth_pct,26,26,100.0,2000,2025
+MLT,Malta,gdp_growth_pct,26,26,100.0,2000,2025
+MMR,Myanmar,gdp_growth_pct,26,26,100.0,2000,2025
+MNE,Montenegro,gdp_growth_pct,26,26,100.0,2000,2025
+MNG,Mongolia,gdp_growth_pct,26,26,100.0,2000,2025
+MNP,Northern Mariana Islands,gdp_growth_pct,26,20,76.92,2003,2022
+MOZ,Mozambique,gdp_growth_pct,26,26,100.0,2000,2025
+MRT,Mauritania,gdp_growth_pct,26,26,100.0,2000,2025
+MUS,Mauritius,gdp_growth_pct,26,26,100.0,2000,2025
+MWI,Malawi,gdp_growth_pct,26,26,100.0,2000,2025
+MYS,Malaysia,gdp_growth_pct,26,26,100.0,2000,2025
+NAM,Namibia,gdp_growth_pct,26,26,100.0,2000,2025
+NCL,New Caledonia,gdp_growth_pct,26,8,30.77,2000,2024
+NER,Niger,gdp_growth_pct,26,26,100.0,2000,2025
+NGA,Nigeria,gdp_growth_pct,26,26,100.0,2000,2025
+NIC,Nicaragua,gdp_growth_pct,26,26,100.0,2000,2025
+NLD,Netherlands,gdp_growth_pct,26,26,100.0,2000,2025
+NOR,Norway,gdp_growth_pct,26,26,100.0,2000,2025
+NPL,Nepal,gdp_growth_pct,26,26,100.0,2000,2025
+NRU,Naoero,gdp_growth_pct,26,26,100.0,2000,2025
+NZL,New Zealand,gdp_growth_pct,26,26,100.0,2000,2025
+OMN,Oman,gdp_growth_pct,26,26,100.0,2000,2025
+PAK,Pakistan,gdp_growth_pct,26,26,100.0,2000,2025
+PAN,Panama,gdp_growth_pct,26,26,100.0,2000,2025
+PER,Peru,gdp_growth_pct,26,26,100.0,2000,2025
+PHL,Philippines,gdp_growth_pct,26,26,100.0,2000,2025
+PLW,Palau,gdp_growth_pct,26,26,100.0,2000,2025
+PNG,Papua New Guinea,gdp_growth_pct,26,26,100.0,2000,2025
+POL,Poland,gdp_growth_pct,26,26,100.0,2000,2025
+PRI,Puerto Rico (US),gdp_growth_pct,26,26,100.0,2000,2025
+PRK,"Korea, Dem. People's Rep.",gdp_growth_pct,26,0,0.0,,
+PRT,Portugal,gdp_growth_pct,26,26,100.0,2000,2025
+PRY,Paraguay,gdp_growth_pct,26,26,100.0,2000,2025
+PSE,West Bank and Gaza,gdp_growth_pct,26,26,100.0,2000,2025
+PYF,French Polynesia,gdp_growth_pct,26,25,96.15,2000,2024
+QAT,Qatar,gdp_growth_pct,26,26,100.0,2000,2025
+ROU,Romania,gdp_growth_pct,26,26,100.0,2000,2025
+RUS,Russian Federation,gdp_growth_pct,26,26,100.0,2000,2025
+RWA,Rwanda,gdp_growth_pct,26,26,100.0,2000,2025
+SAU,Saudi Arabia,gdp_growth_pct,26,26,100.0,2000,2025
+SDN,Sudan,gdp_growth_pct,26,26,100.0,2000,2025
+SEN,Senegal,gdp_growth_pct,26,26,100.0,2000,2025
+SGP,Singapore,gdp_growth_pct,26,26,100.0,2000,2025
+SLB,Solomon Islands,gdp_growth_pct,26,26,100.0,2000,2025
+SLE,Sierra Leone,gdp_growth_pct,26,26,100.0,2000,2025
+SLV,El Salvador,gdp_growth_pct,26,26,100.0,2000,2025
+SMR,San Marino,gdp_growth_pct,26,24,92.31,2000,2023
+SOM,"Somalia, Fed. Rep.",gdp_growth_pct,26,26,100.0,2000,2025
+SRB,Serbia,gdp_growth_pct,26,26,100.0,2000,2025
+SSD,South Sudan,gdp_growth_pct,26,7,26.92,2009,2015
+STP,Sao Tome and Principe,gdp_growth_pct,26,26,100.0,2000,2025
+SUR,Suriname,gdp_growth_pct,26,26,100.0,2000,2025
+SVK,Slovak Republic,gdp_growth_pct,26,26,100.0,2000,2025
+SVN,Slovenia,gdp_growth_pct,26,26,100.0,2000,2025
+SWE,Sweden,gdp_growth_pct,26,26,100.0,2000,2025
+SWZ,Eswatini,gdp_growth_pct,26,26,100.0,2000,2025
+SXM,Sint Maarten (Dutch part),gdp_growth_pct,26,16,61.54,2010,2025
+SYC,Seychelles,gdp_growth_pct,26,26,100.0,2000,2025
+SYR,Syrian Arab Republic,gdp_growth_pct,26,23,88.46,2000,2022
+TCA,Turks and Caicos Islands,gdp_growth_pct,26,17,65.38,2008,2024
+TCD,Chad,gdp_growth_pct,26,26,100.0,2000,2025
+TGO,Togo,gdp_growth_pct,26,26,100.0,2000,2025
+THA,Thailand,gdp_growth_pct,26,26,100.0,2000,2025
+TJK,Tajikistan,gdp_growth_pct,26,26,100.0,2000,2025
+TKM,Turkmenistan,gdp_growth_pct,26,26,100.0,2000,2025
+TLS,Timor-Leste,gdp_growth_pct,26,26,100.0,2000,2025
+TON,Tonga,gdp_growth_pct,26,26,100.0,2000,2025
+TTO,Trinidad and Tobago,gdp_growth_pct,26,26,100.0,2000,2025
+TUN,Tunisia,gdp_growth_pct,26,26,100.0,2000,2025
+TUR,Turkiye,gdp_growth_pct,26,26,100.0,2000,2025
+TUV,Tuvalu,gdp_growth_pct,26,26,100.0,2000,2025
+TZA,Tanzania,gdp_growth_pct,26,26,100.0,2000,2025
+UGA,Uganda,gdp_growth_pct,26,26,100.0,2000,2025
+UKR,Ukraine,gdp_growth_pct,26,26,100.0,2000,2025
+URY,Uruguay,gdp_growth_pct,26,26,100.0,2000,2025
+USA,United States,gdp_growth_pct,26,26,100.0,2000,2025
+UZB,Uzbekistan,gdp_growth_pct,26,26,100.0,2000,2025
+VCT,St. Vincent and the Grenadines,gdp_growth_pct,26,26,100.0,2000,2025
+VEN,"Venezuela, RB",gdp_growth_pct,26,26,100.0,2000,2025
+VGB,British Virgin Islands,gdp_growth_pct,26,0,0.0,,
+VIR,Virgin Islands (U.S.),gdp_growth_pct,26,20,76.92,2003,2022
+VNM,Viet Nam,gdp_growth_pct,26,26,100.0,2000,2025
+VUT,Vanuatu,gdp_growth_pct,26,26,100.0,2000,2025
+WSM,Samoa,gdp_growth_pct,26,26,100.0,2000,2025
+XKX,Kosovo,gdp_growth_pct,26,17,65.38,2009,2025
+YEM,"Yemen, Rep.",gdp_growth_pct,26,19,73.08,2000,2018
+ZAF,South Africa,gdp_growth_pct,26,26,100.0,2000,2025
+ZMB,Zambia,gdp_growth_pct,26,26,100.0,2000,2025
+ZWE,Zimbabwe,gdp_growth_pct,26,26,100.0,2000,2025
+ABW,Aruba,inflation_pct,26,20,76.92,2000,2019
+AFG,Afghanistan,inflation_pct,26,20,76.92,2005,2024
+AGO,Angola,inflation_pct,26,26,100.0,2000,2025
+ALB,Albania,inflation_pct,26,26,100.0,2000,2025
+AND,Andorra,inflation_pct,26,0,0.0,,
+ARE,United Arab Emirates,inflation_pct,26,18,69.23,2008,2025
+ARG,Argentina,inflation_pct,26,7,26.92,2018,2024
+ARM,Armenia,inflation_pct,26,26,100.0,2000,2025
+ASM,American Samoa,inflation_pct,26,0,0.0,,
+ATG,Antigua and Barbuda,inflation_pct,26,26,100.0,2000,2025
+AUS,Australia,inflation_pct,26,26,100.0,2000,2025
+AUT,Austria,inflation_pct,26,26,100.0,2000,2025
+AZE,Azerbaijan,inflation_pct,26,26,100.0,2000,2025
+BDI,Burundi,inflation_pct,26,26,100.0,2000,2025
+BEL,Belgium,inflation_pct,26,26,100.0,2000,2025
+BEN,Benin,inflation_pct,26,26,100.0,2000,2025
+BFA,Burkina Faso,inflation_pct,26,26,100.0,2000,2025
+BGD,Bangladesh,inflation_pct,26,26,100.0,2000,2025
+BGR,Bulgaria,inflation_pct,26,26,100.0,2000,2025
+BHR,Bahrain,inflation_pct,26,26,100.0,2000,2025
+BHS,"Bahamas, The",inflation_pct,26,25,96.15,2000,2024
+BIH,Bosnia and Herzegovina,inflation_pct,26,18,69.23,2006,2023
+BLR,Belarus,inflation_pct,26,26,100.0,2000,2025
+BLZ,Belize,inflation_pct,26,26,100.0,2000,2025
+BMU,Bermuda,inflation_pct,26,0,0.0,,
+BOL,Bolivia,inflation_pct,26,26,100.0,2000,2025
+BRA,Brazil,inflation_pct,26,26,100.0,2000,2025
+BRB,Barbados,inflation_pct,26,23,88.46,2000,2025
+BRN,Brunei Darussalam,inflation_pct,26,26,100.0,2000,2025
+BTN,Bhutan,inflation_pct,26,26,100.0,2000,2025
+BWA,Botswana,inflation_pct,26,26,100.0,2000,2025
+CAF,Central African Republic,inflation_pct,26,26,100.0,2000,2025
+CAN,Canada,inflation_pct,26,26,100.0,2000,2025
+CHE,Switzerland,inflation_pct,26,26,100.0,2000,2025
+CHI,Channel Islands,inflation_pct,26,0,0.0,,
+CHL,Chile,inflation_pct,26,26,100.0,2000,2025
+CHN,China,inflation_pct,26,26,100.0,2000,2025
+CIV,Cote d'Ivoire,inflation_pct,26,26,100.0,2000,2025
+CMR,Cameroon,inflation_pct,26,26,100.0,2000,2025
+COD,"Congo, Dem. Rep.",inflation_pct,26,17,65.38,2000,2016
+COG,"Congo, Rep.",inflation_pct,26,26,100.0,2000,2025
+COL,Colombia,inflation_pct,26,26,100.0,2000,2025
+COM,Comoros,inflation_pct,26,25,96.15,2001,2025
+CPV,Cabo Verde,inflation_pct,26,26,100.0,2000,2025
+CRI,Costa Rica,inflation_pct,26,26,100.0,2000,2025
+CUB,Cuba,inflation_pct,26,0,0.0,,
+CUW,Curacao,inflation_pct,26,19,73.08,2001,2019
+CYM,Cayman Islands,inflation_pct,26,7,26.92,2010,2016
+CYP,Cyprus,inflation_pct,26,26,100.0,2000,2025
+CZE,Czechia,inflation_pct,26,26,100.0,2000,2025
+DEU,Germany,inflation_pct,26,26,100.0,2000,2025
+DJI,Djibouti,inflation_pct,26,25,96.15,2001,2025
+DMA,Dominica,inflation_pct,26,26,100.0,2000,2025
+DNK,Denmark,inflation_pct,26,26,100.0,2000,2025
+DOM,Dominican Republic,inflation_pct,26,26,100.0,2000,2025
+DZA,Algeria,inflation_pct,26,26,100.0,2000,2025
+ECU,Ecuador,inflation_pct,26,26,100.0,2000,2025
+EGY,"Egypt, Arab Rep.",inflation_pct,26,26,100.0,2000,2025
+ERI,Eritrea,inflation_pct,26,0,0.0,,
+ESP,Spain,inflation_pct,26,26,100.0,2000,2025
+EST,Estonia,inflation_pct,26,26,100.0,2000,2025
+ETH,Ethiopia,inflation_pct,26,26,100.0,2000,2025
+FIN,Finland,inflation_pct,26,26,100.0,2000,2025
+FJI,Fiji,inflation_pct,26,26,100.0,2000,2025
+FRA,France,inflation_pct,26,26,100.0,2000,2025
+FRO,Faroe Islands,inflation_pct,26,0,0.0,,
+FSM,"Micronesia, Fed. Sts.",inflation_pct,26,23,88.46,2000,2022
+GAB,Gabon,inflation_pct,26,26,100.0,2000,2025
+GBR,United Kingdom,inflation_pct,26,26,100.0,2000,2025
+GEO,Georgia,inflation_pct,26,26,100.0,2000,2025
+GHA,Ghana,inflation_pct,26,26,100.0,2000,2025
+GIB,Gibraltar,inflation_pct,26,0,0.0,,
+GIN,Guinea,inflation_pct,26,21,80.77,2005,2025
+GMB,"Gambia, The",inflation_pct,26,25,96.15,2000,2024
+GNB,Guinea-Bissau,inflation_pct,26,26,100.0,2000,2025
+GNQ,Equatorial Guinea,inflation_pct,26,25,96.15,2000,2024
+GRC,Greece,inflation_pct,26,26,100.0,2000,2025
+GRD,Grenada,inflation_pct,26,26,100.0,2000,2025
+GRL,Greenland,inflation_pct,26,0,0.0,,
+GTM,Guatemala,inflation_pct,26,26,100.0,2000,2025
+GUM,Guam,inflation_pct,26,0,0.0,,
+GUY,Guyana,inflation_pct,26,26,100.0,2000,2025
+HKG,"Hong Kong SAR, China",inflation_pct,26,26,100.0,2000,2025
+HND,Honduras,inflation_pct,26,26,100.0,2000,2025
+HRV,Croatia,inflation_pct,26,26,100.0,2000,2025
+HTI,Haiti,inflation_pct,26,26,100.0,2000,2025
+HUN,Hungary,inflation_pct,26,26,100.0,2000,2025
+IDN,Indonesia,inflation_pct,26,26,100.0,2000,2025
+IMN,Isle of Man,inflation_pct,26,0,0.0,,
+IND,India,inflation_pct,26,26,100.0,2000,2025
+IRL,Ireland,inflation_pct,26,26,100.0,2000,2025
+IRN,"Iran, Islamic Rep.",inflation_pct,26,26,100.0,2000,2025
+IRQ,Iraq,inflation_pct,26,26,100.0,2000,2025
+ISL,Iceland,inflation_pct,26,26,100.0,2000,2025
+ISR,Israel,inflation_pct,26,26,100.0,2000,2025
+ITA,Italy,inflation_pct,26,26,100.0,2000,2025
+JAM,Jamaica,inflation_pct,26,26,100.0,2000,2025
+JOR,Jordan,inflation_pct,26,26,100.0,2000,2025
+JPN,Japan,inflation_pct,26,26,100.0,2000,2025
+KAZ,Kazakhstan,inflation_pct,26,26,100.0,2000,2025
+KEN,Kenya,inflation_pct,26,26,100.0,2000,2025
+KGZ,Kyrgyz Republic,inflation_pct,26,26,100.0,2000,2025
+KHM,Cambodia,inflation_pct,26,26,100.0,2000,2025
+KIR,Kiribati,inflation_pct,26,18,69.23,2007,2024
+KNA,St. Kitts and Nevis,inflation_pct,26,24,92.31,2000,2023
+KOR,"Korea, Rep.",inflation_pct,26,26,100.0,2000,2025
+KWT,Kuwait,inflation_pct,26,26,100.0,2000,2025
+LAO,Lao PDR,inflation_pct,26,26,100.0,2000,2025
+LBN,Lebanon,inflation_pct,26,17,65.38,2009,2025
+LBR,Liberia,inflation_pct,26,24,92.31,2002,2025
+LBY,Libya,inflation_pct,26,26,100.0,2000,2025
+LCA,St. Lucia,inflation_pct,26,26,100.0,2000,2025
+LIE,Liechtenstein,inflation_pct,26,0,0.0,,
+LKA,Sri Lanka,inflation_pct,26,26,100.0,2000,2025
+LSO,Lesotho,inflation_pct,26,26,100.0,2000,2025
+LTU,Lithuania,inflation_pct,26,26,100.0,2000,2025
+LUX,Luxembourg,inflation_pct,26,26,100.0,2000,2025
+LVA,Latvia,inflation_pct,26,26,100.0,2000,2025
+MAC,"Macao SAR, China",inflation_pct,26,26,100.0,2000,2025
+MAF,St. Martin (French part),inflation_pct,26,0,0.0,,
+MAR,Morocco,inflation_pct,26,26,100.0,2000,2025
+MCO,Monaco,inflation_pct,26,0,0.0,,
+MDA,Moldova,inflation_pct,26,26,100.0,2000,2025
+MDG,Madagascar,inflation_pct,26,26,100.0,2000,2025
+MDV,Maldives,inflation_pct,26,26,100.0,2000,2025
+MEX,Mexico,inflation_pct,26,26,100.0,2000,2025
+MHL,Marshall Islands,inflation_pct,26,0,0.0,,
+MKD,North Macedonia,inflation_pct,26,26,100.0,2000,2025
+MLI,Mali,inflation_pct,26,26,100.0,2000,2025
+MLT,Malta,inflation_pct,26,26,100.0,2000,2025
+MMR,Myanmar,inflation_pct,26,20,76.92,2000,2019
+MNE,Montenegro,inflation_pct,26,20,76.92,2006,2025
+MNG,Mongolia,inflation_pct,26,26,100.0,2000,2025
+MNP,Northern Mariana Islands,inflation_pct,26,0,0.0,,
+MOZ,Mozambique,inflation_pct,26,21,80.77,2005,2025
+MRT,Mauritania,inflation_pct,26,26,100.0,2000,2025
+MUS,Mauritius,inflation_pct,26,26,100.0,2000,2025
+MWI,Malawi,inflation_pct,26,26,100.0,2000,2025
+MYS,Malaysia,inflation_pct,26,26,100.0,2000,2025
+NAM,Namibia,inflation_pct,26,23,88.46,2003,2025
+NCL,New Caledonia,inflation_pct,26,6,23.08,2011,2016
+NER,Niger,inflation_pct,26,26,100.0,2000,2025
+NGA,Nigeria,inflation_pct,26,26,100.0,2000,2025
+NIC,Nicaragua,inflation_pct,26,26,100.0,2000,2025
+NLD,Netherlands,inflation_pct,26,26,100.0,2000,2025
+NOR,Norway,inflation_pct,26,26,100.0,2000,2025
+NPL,Nepal,inflation_pct,26,26,100.0,2000,2025
+NRU,Naoero,inflation_pct,26,2,7.69,2011,2012
+NZL,New Zealand,inflation_pct,26,26,100.0,2000,2025
+OMN,Oman,inflation_pct,26,25,96.15,2001,2025
+PAK,Pakistan,inflation_pct,26,26,100.0,2000,2025
+PAN,Panama,inflation_pct,26,26,100.0,2000,2025
+PER,Peru,inflation_pct,26,26,100.0,2000,2025
+PHL,Philippines,inflation_pct,26,26,100.0,2000,2025
+PLW,Palau,inflation_pct,26,24,92.31,2002,2025
+PNG,Papua New Guinea,inflation_pct,26,26,100.0,2000,2025
+POL,Poland,inflation_pct,26,26,100.0,2000,2025
+PRI,Puerto Rico (US),inflation_pct,26,0,0.0,,
+PRK,"Korea, Dem. People's Rep.",inflation_pct,26,0,0.0,,
+PRT,Portugal,inflation_pct,26,26,100.0,2000,2025
+PRY,Paraguay,inflation_pct,26,26,100.0,2000,2025
+PSE,West Bank and Gaza,inflation_pct,26,26,100.0,2000,2025
+PYF,French Polynesia,inflation_pct,26,0,0.0,,
+QAT,Qatar,inflation_pct,26,25,96.15,2000,2024
+ROU,Romania,inflation_pct,26,26,100.0,2000,2025
+RUS,Russian Federation,inflation_pct,26,26,100.0,2000,2025
+RWA,Rwanda,inflation_pct,26,26,100.0,2000,2025
+SAU,Saudi Arabia,inflation_pct,26,26,100.0,2000,2025
+SDN,Sudan,inflation_pct,26,23,88.46,2000,2022
+SEN,Senegal,inflation_pct,26,26,100.0,2000,2025
+SGP,Singapore,inflation_pct,26,26,100.0,2000,2025
+SLB,Solomon Islands,inflation_pct,26,26,100.0,2000,2025
+SLE,Sierra Leone,inflation_pct,26,19,73.08,2007,2025
+SLV,El Salvador,inflation_pct,26,26,100.0,2000,2025
+SMR,San Marino,inflation_pct,26,22,84.62,2004,2025
+SOM,"Somalia, Fed. Rep.",inflation_pct,26,0,0.0,,
+SRB,Serbia,inflation_pct,26,26,100.0,2000,2025
+SSD,South Sudan,inflation_pct,26,16,61.54,2009,2024
+STP,Sao Tome and Principe,inflation_pct,26,26,100.0,2000,2025
+SUR,Suriname,inflation_pct,26,24,92.31,2000,2025
+SVK,Slovak Republic,inflation_pct,26,26,100.0,2000,2025
+SVN,Slovenia,inflation_pct,26,26,100.0,2000,2025
+SWE,Sweden,inflation_pct,26,26,100.0,2000,2025
+SWZ,Eswatini,inflation_pct,26,20,76.92,2000,2019
+SXM,Sint Maarten (Dutch part),inflation_pct,26,12,46.15,2006,2017
+SYC,Seychelles,inflation_pct,26,26,100.0,2000,2025
+SYR,Syrian Arab Republic,inflation_pct,26,20,76.92,2000,2019
+TCA,Turks and Caicos Islands,inflation_pct,26,0,0.0,,
+TCD,Chad,inflation_pct,26,26,100.0,2000,2025
+TGO,Togo,inflation_pct,26,26,100.0,2000,2025
+THA,Thailand,inflation_pct,26,26,100.0,2000,2025
+TJK,Tajikistan,inflation_pct,26,16,61.54,2001,2016
+TKM,Turkmenistan,inflation_pct,26,0,0.0,,
+TLS,Timor-Leste,inflation_pct,26,23,88.46,2003,2025
+TON,Tonga,inflation_pct,26,26,100.0,2000,2025
+TTO,Trinidad and Tobago,inflation_pct,26,26,100.0,2000,2025
+TUN,Tunisia,inflation_pct,26,26,100.0,2000,2025
+TUR,Turkiye,inflation_pct,26,26,100.0,2000,2025
+TUV,Tuvalu,inflation_pct,26,1,3.85,2011,2011
+TZA,Tanzania,inflation_pct,26,26,100.0,2000,2025
+UGA,Uganda,inflation_pct,26,26,100.0,2000,2025
+UKR,Ukraine,inflation_pct,26,26,100.0,2000,2025
+URY,Uruguay,inflation_pct,26,26,100.0,2000,2025
+USA,United States,inflation_pct,26,25,96.15,2000,2024
+UZB,Uzbekistan,inflation_pct,26,15,57.69,2011,2025
+VCT,St. Vincent and the Grenadines,inflation_pct,26,26,100.0,2000,2025
+VEN,"Venezuela, RB",inflation_pct,26,8,30.77,2009,2016
+VGB,British Virgin Islands,inflation_pct,26,0,0.0,,
+VIR,Virgin Islands (U.S.),inflation_pct,26,0,0.0,,
+VNM,Viet Nam,inflation_pct,26,26,100.0,2000,2025
+VUT,Vanuatu,inflation_pct,26,26,100.0,2000,2025
+WSM,Samoa,inflation_pct,26,26,100.0,2000,2025
+XKX,Kosovo,inflation_pct,26,23,88.46,2003,2025
+YEM,"Yemen, Rep.",inflation_pct,26,15,57.69,2000,2014
+ZAF,South Africa,inflation_pct,26,26,100.0,2000,2025
+ZMB,Zambia,inflation_pct,26,26,100.0,2000,2025
+ZWE,Zimbabwe,inflation_pct,26,13,50.0,2010,2022
+ABW,Aruba,fdi_pct_gdp,26,25,96.15,2000,2024
+AFG,Afghanistan,fdi_pct_gdp,26,22,84.62,2000,2021
+AGO,Angola,fdi_pct_gdp,26,26,100.0,2000,2025
+ALB,Albania,fdi_pct_gdp,26,26,100.0,2000,2025
+AND,Andorra,fdi_pct_gdp,26,6,23.08,2019,2024
+ARE,United Arab Emirates,fdi_pct_gdp,26,25,96.15,2000,2024
+ARG,Argentina,fdi_pct_gdp,26,26,100.0,2000,2025
+ARM,Armenia,fdi_pct_gdp,26,26,100.0,2000,2025
+ASM,American Samoa,fdi_pct_gdp,26,0,0.0,,
+ATG,Antigua and Barbuda,fdi_pct_gdp,26,26,100.0,2000,2025
+AUS,Australia,fdi_pct_gdp,26,26,100.0,2000,2025
+AUT,Austria,fdi_pct_gdp,26,26,100.0,2000,2025
+AZE,Azerbaijan,fdi_pct_gdp,26,26,100.0,2000,2025
+BDI,Burundi,fdi_pct_gdp,26,24,92.31,2000,2025
+BEL,Belgium,fdi_pct_gdp,26,26,100.0,2000,2025
+BEN,Benin,fdi_pct_gdp,26,25,96.15,2000,2024
+BFA,Burkina Faso,fdi_pct_gdp,26,25,96.15,2000,2024
+BGD,Bangladesh,fdi_pct_gdp,26,26,100.0,2000,2025
+BGR,Bulgaria,fdi_pct_gdp,26,26,100.0,2000,2025
+BHR,Bahrain,fdi_pct_gdp,26,25,96.15,2000,2024
+BHS,"Bahamas, The",fdi_pct_gdp,26,25,96.15,2000,2024
+BIH,Bosnia and Herzegovina,fdi_pct_gdp,26,26,100.0,2000,2025
+BLR,Belarus,fdi_pct_gdp,26,26,100.0,2000,2025
+BLZ,Belize,fdi_pct_gdp,26,26,100.0,2000,2025
+BMU,Bermuda,fdi_pct_gdp,26,25,96.15,2000,2024
+BOL,Bolivia,fdi_pct_gdp,26,26,100.0,2000,2025
+BRA,Brazil,fdi_pct_gdp,26,26,100.0,2000,2025
+BRB,Barbados,fdi_pct_gdp,26,25,96.15,2000,2024
+BRN,Brunei Darussalam,fdi_pct_gdp,26,26,100.0,2000,2025
+BTN,Bhutan,fdi_pct_gdp,26,23,88.46,2002,2024
+BWA,Botswana,fdi_pct_gdp,26,25,96.15,2000,2024
+CAF,Central African Republic,fdi_pct_gdp,26,25,96.15,2000,2024
+CAN,Canada,fdi_pct_gdp,26,26,100.0,2000,2025
+CHE,Switzerland,fdi_pct_gdp,26,26,100.0,2000,2025
+CHI,Channel Islands,fdi_pct_gdp,26,0,0.0,,
+CHL,Chile,fdi_pct_gdp,26,26,100.0,2000,2025
+CHN,China,fdi_pct_gdp,26,26,100.0,2000,2025
+CIV,Cote d'Ivoire,fdi_pct_gdp,26,25,96.15,2000,2024
+CMR,Cameroon,fdi_pct_gdp,26,25,96.15,2000,2024
+COD,"Congo, Dem. Rep.",fdi_pct_gdp,26,26,100.0,2000,2025
+COG,"Congo, Rep.",fdi_pct_gdp,26,25,96.15,2000,2024
+COL,Colombia,fdi_pct_gdp,26,26,100.0,2000,2025
+COM,Comoros,fdi_pct_gdp,26,25,96.15,2000,2024
+CPV,Cabo Verde,fdi_pct_gdp,26,26,100.0,2000,2025
+CRI,Costa Rica,fdi_pct_gdp,26,26,100.0,2000,2025
+CUB,Cuba,fdi_pct_gdp,26,0,0.0,,
+CUW,Curacao,fdi_pct_gdp,26,14,53.85,2011,2024
+CYM,Cayman Islands,fdi_pct_gdp,26,19,73.08,2006,2024
+CYP,Cyprus,fdi_pct_gdp,26,26,100.0,2000,2025
+CZE,Czechia,fdi_pct_gdp,26,26,100.0,2000,2025
+DEU,Germany,fdi_pct_gdp,26,26,100.0,2000,2025
+DJI,Djibouti,fdi_pct_gdp,26,25,96.15,2000,2024
+DMA,Dominica,fdi_pct_gdp,26,26,100.0,2000,2025
+DNK,Denmark,fdi_pct_gdp,26,25,96.15,2000,2024
+DOM,Dominican Republic,fdi_pct_gdp,26,26,100.0,2000,2025
+DZA,Algeria,fdi_pct_gdp,26,25,96.15,2000,2024
+ECU,Ecuador,fdi_pct_gdp,26,26,100.0,2000,2025
+EGY,"Egypt, Arab Rep.",fdi_pct_gdp,26,26,100.0,2000,2025
+ERI,Eritrea,fdi_pct_gdp,26,12,46.15,2000,2011
+ESP,Spain,fdi_pct_gdp,26,26,100.0,2000,2025
+EST,Estonia,fdi_pct_gdp,26,26,100.0,2000,2025
+ETH,Ethiopia,fdi_pct_gdp,26,25,96.15,2000,2024
+FIN,Finland,fdi_pct_gdp,26,26,100.0,2000,2025
+FJI,Fiji,fdi_pct_gdp,26,25,96.15,2000,2024
+FRA,France,fdi_pct_gdp,26,26,100.0,2000,2025
+FRO,Faroe Islands,fdi_pct_gdp,26,0,0.0,,
+FSM,"Micronesia, Fed. Sts.",fdi_pct_gdp,26,1,3.85,2014,2014
+GAB,Gabon,fdi_pct_gdp,26,25,96.15,2000,2024
+GBR,United Kingdom,fdi_pct_gdp,26,26,100.0,2000,2025
+GEO,Georgia,fdi_pct_gdp,26,26,100.0,2000,2025
+GHA,Ghana,fdi_pct_gdp,26,26,100.0,2000,2025
+GIB,Gibraltar,fdi_pct_gdp,26,0,0.0,,
+GIN,Guinea,fdi_pct_gdp,26,24,92.31,2000,2024
+GMB,"Gambia, The",fdi_pct_gdp,26,25,96.15,2000,2024
+GNB,Guinea-Bissau,fdi_pct_gdp,26,25,96.15,2000,2024
+GNQ,Equatorial Guinea,fdi_pct_gdp,26,25,96.15,2000,2024
+GRC,Greece,fdi_pct_gdp,26,25,96.15,2000,2024
+GRD,Grenada,fdi_pct_gdp,26,26,100.0,2000,2025
+GRL,Greenland,fdi_pct_gdp,26,0,0.0,,
+GTM,Guatemala,fdi_pct_gdp,26,25,96.15,2000,2024
+GUM,Guam,fdi_pct_gdp,26,0,0.0,,
+GUY,Guyana,fdi_pct_gdp,26,25,96.15,2000,2024
+HKG,"Hong Kong SAR, China",fdi_pct_gdp,26,25,96.15,2000,2024
+HND,Honduras,fdi_pct_gdp,26,26,100.0,2000,2025
+HRV,Croatia,fdi_pct_gdp,26,25,96.15,2000,2024
+HTI,Haiti,fdi_pct_gdp,26,25,96.15,2000,2024
+HUN,Hungary,fdi_pct_gdp,26,26,100.0,2000,2025
+IDN,Indonesia,fdi_pct_gdp,26,26,100.0,2000,2025
+IMN,Isle of Man,fdi_pct_gdp,26,0,0.0,,
+IND,India,fdi_pct_gdp,26,26,100.0,2000,2025
+IRL,Ireland,fdi_pct_gdp,26,25,96.15,2000,2024
+IRN,"Iran, Islamic Rep.",fdi_pct_gdp,26,25,96.15,2000,2024
+IRQ,Iraq,fdi_pct_gdp,26,25,96.15,2000,2024
+ISL,Iceland,fdi_pct_gdp,26,26,100.0,2000,2025
+ISR,Israel,fdi_pct_gdp,26,26,100.0,2000,2025
+ITA,Italy,fdi_pct_gdp,26,26,100.0,2000,2025
+JAM,Jamaica,fdi_pct_gdp,26,25,96.15,2000,2024
+JOR,Jordan,fdi_pct_gdp,26,25,96.15,2000,2024
+JPN,Japan,fdi_pct_gdp,26,26,100.0,2000,2025
+KAZ,Kazakhstan,fdi_pct_gdp,26,26,100.0,2000,2025
+KEN,Kenya,fdi_pct_gdp,26,25,96.15,2000,2024
+KGZ,Kyrgyz Republic,fdi_pct_gdp,26,25,96.15,2000,2024
+KHM,Cambodia,fdi_pct_gdp,26,26,100.0,2000,2025
+KIR,Kiribati,fdi_pct_gdp,26,26,100.0,2000,2025
+KNA,St. Kitts and Nevis,fdi_pct_gdp,26,26,100.0,2000,2025
+KOR,"Korea, Rep.",fdi_pct_gdp,26,26,100.0,2000,2025
+KWT,Kuwait,fdi_pct_gdp,26,26,100.0,2000,2025
+LAO,Lao PDR,fdi_pct_gdp,26,25,96.15,2000,2024
+LBN,Lebanon,fdi_pct_gdp,26,25,96.15,2000,2024
+LBR,Liberia,fdi_pct_gdp,26,25,96.15,2000,2024
+LBY,Libya,fdi_pct_gdp,26,16,61.54,2000,2023
+LCA,St. Lucia,fdi_pct_gdp,26,26,100.0,2000,2025
+LIE,Liechtenstein,fdi_pct_gdp,26,19,73.08,2000,2018
+LKA,Sri Lanka,fdi_pct_gdp,26,25,96.15,2000,2024
+LSO,Lesotho,fdi_pct_gdp,26,26,100.0,2000,2025
+LTU,Lithuania,fdi_pct_gdp,26,26,100.0,2000,2025
+LUX,Luxembourg,fdi_pct_gdp,26,24,92.31,2002,2025
+LVA,Latvia,fdi_pct_gdp,26,26,100.0,2000,2025
+MAC,"Macao SAR, China",fdi_pct_gdp,26,25,96.15,2000,2024
+MAF,St. Martin (French part),fdi_pct_gdp,26,0,0.0,,
+MAR,Morocco,fdi_pct_gdp,26,26,100.0,2000,2025
+MCO,Monaco,fdi_pct_gdp,26,0,0.0,,
+MDA,Moldova,fdi_pct_gdp,26,26,100.0,2000,2025
+MDG,Madagascar,fdi_pct_gdp,26,25,96.15,2000,2024
+MDV,Maldives,fdi_pct_gdp,26,25,96.15,2000,2024
+MEX,Mexico,fdi_pct_gdp,26,26,100.0,2000,2025
+MHL,Marshall Islands,fdi_pct_gdp,26,25,96.15,2000,2024
+MKD,North Macedonia,fdi_pct_gdp,26,26,100.0,2000,2025
+MLI,Mali,fdi_pct_gdp,26,25,96.15,2000,2024
+MLT,Malta,fdi_pct_gdp,26,25,96.15,2000,2024
+MMR,Myanmar,fdi_pct_gdp,26,25,96.15,2000,2024
+MNE,Montenegro,fdi_pct_gdp,26,19,73.08,2007,2025
+MNG,Mongolia,fdi_pct_gdp,26,25,96.15,2000,2024
+MNP,Northern Mariana Islands,fdi_pct_gdp,26,0,0.0,,
+MOZ,Mozambique,fdi_pct_gdp,26,25,96.15,2000,2024
+MRT,Mauritania,fdi_pct_gdp,26,25,96.15,2000,2024
+MUS,Mauritius,fdi_pct_gdp,26,25,96.15,2000,2024
+MWI,Malawi,fdi_pct_gdp,26,25,96.15,2000,2024
+MYS,Malaysia,fdi_pct_gdp,26,25,96.15,2000,2024
+NAM,Namibia,fdi_pct_gdp,26,25,96.15,2000,2024
+NCL,New Caledonia,fdi_pct_gdp,26,25,96.15,2000,2024
+NER,Niger,fdi_pct_gdp,26,25,96.15,2000,2024
+NGA,Nigeria,fdi_pct_gdp,26,26,100.0,2000,2025
+NIC,Nicaragua,fdi_pct_gdp,26,25,96.15,2000,2024
+NLD,Netherlands,fdi_pct_gdp,26,25,96.15,2000,2024
+NOR,Norway,fdi_pct_gdp,26,26,100.0,2000,2025
+NPL,Nepal,fdi_pct_gdp,26,25,96.15,2000,2024
+NRU,Naoero,fdi_pct_gdp,26,7,26.92,2018,2024
+NZL,New Zealand,fdi_pct_gdp,26,26,100.0,2000,2025
+OMN,Oman,fdi_pct_gdp,26,25,96.15,2000,2024
+PAK,Pakistan,fdi_pct_gdp,26,26,100.0,2000,2025
+PAN,Panama,fdi_pct_gdp,26,26,100.0,2000,2025
+PER,Peru,fdi_pct_gdp,26,26,100.0,2000,2025
+PHL,Philippines,fdi_pct_gdp,26,26,100.0,2000,2025
+PLW,Palau,fdi_pct_gdp,26,25,96.15,2000,2024
+PNG,Papua New Guinea,fdi_pct_gdp,26,25,96.15,2000,2024
+POL,Poland,fdi_pct_gdp,26,26,100.0,2000,2025
+PRI,Puerto Rico (US),fdi_pct_gdp,26,0,0.0,,
+PRK,"Korea, Dem. People's Rep.",fdi_pct_gdp,26,0,0.0,,
+PRT,Portugal,fdi_pct_gdp,26,25,96.15,2000,2024
+PRY,Paraguay,fdi_pct_gdp,26,26,100.0,2000,2025
+PSE,West Bank and Gaza,fdi_pct_gdp,26,26,100.0,2000,2025
+PYF,French Polynesia,fdi_pct_gdp,26,25,96.15,2000,2024
+QAT,Qatar,fdi_pct_gdp,26,26,100.0,2000,2025
+ROU,Romania,fdi_pct_gdp,26,26,100.0,2000,2025
+RUS,Russian Federation,fdi_pct_gdp,26,26,100.0,2000,2025
+RWA,Rwanda,fdi_pct_gdp,26,25,96.15,2000,2024
+SAU,Saudi Arabia,fdi_pct_gdp,26,26,100.0,2000,2025
+SDN,Sudan,fdi_pct_gdp,26,24,92.31,2000,2023
+SEN,Senegal,fdi_pct_gdp,26,25,96.15,2000,2024
+SGP,Singapore,fdi_pct_gdp,26,26,100.0,2000,2025
+SLB,Solomon Islands,fdi_pct_gdp,26,25,96.15,2000,2024
+SLE,Sierra Leone,fdi_pct_gdp,26,25,96.15,2000,2024
+SLV,El Salvador,fdi_pct_gdp,26,26,100.0,2000,2025
+SMR,San Marino,fdi_pct_gdp,26,3,11.54,2021,2023
+SOM,"Somalia, Fed. Rep.",fdi_pct_gdp,26,25,96.15,2000,2024
+SRB,Serbia,fdi_pct_gdp,26,19,73.08,2007,2025
+SSD,South Sudan,fdi_pct_gdp,26,4,15.38,2012,2015
+STP,Sao Tome and Principe,fdi_pct_gdp,26,25,96.15,2000,2024
+SUR,Suriname,fdi_pct_gdp,26,26,100.0,2000,2025
+SVK,Slovak Republic,fdi_pct_gdp,26,26,100.0,2000,2025
+SVN,Slovenia,fdi_pct_gdp,26,26,100.0,2000,2025
+SWE,Sweden,fdi_pct_gdp,26,26,100.0,2000,2025
+SWZ,Eswatini,fdi_pct_gdp,26,25,96.15,2000,2024
+SXM,Sint Maarten (Dutch part),fdi_pct_gdp,26,14,53.85,2011,2024
+SYC,Seychelles,fdi_pct_gdp,26,25,96.15,2000,2024
+SYR,Syrian Arab Republic,fdi_pct_gdp,26,12,46.15,2000,2011
+TCA,Turks and Caicos Islands,fdi_pct_gdp,26,11,42.31,2014,2024
+TCD,Chad,fdi_pct_gdp,26,25,96.15,2000,2024
+TGO,Togo,fdi_pct_gdp,26,25,96.15,2000,2024
+THA,Thailand,fdi_pct_gdp,26,26,100.0,2000,2025
+TJK,Tajikistan,fdi_pct_gdp,26,26,100.0,2000,2025
+TKM,Turkmenistan,fdi_pct_gdp,26,25,96.15,2000,2024
+TLS,Timor-Leste,fdi_pct_gdp,26,22,84.62,2003,2025
+TON,Tonga,fdi_pct_gdp,26,25,96.15,2000,2024
+TTO,Trinidad and Tobago,fdi_pct_gdp,26,26,100.0,2000,2025
+TUN,Tunisia,fdi_pct_gdp,26,25,96.15,2000,2024
+TUR,Turkiye,fdi_pct_gdp,26,25,96.15,2000,2024
+TUV,Tuvalu,fdi_pct_gdp,26,24,92.31,2001,2024
+TZA,Tanzania,fdi_pct_gdp,26,25,96.15,2000,2024
+UGA,Uganda,fdi_pct_gdp,26,25,96.15,2000,2024
+UKR,Ukraine,fdi_pct_gdp,26,25,96.15,2000,2024
+URY,Uruguay,fdi_pct_gdp,26,26,100.0,2000,2025
+USA,United States,fdi_pct_gdp,26,26,100.0,2000,2025
+UZB,Uzbekistan,fdi_pct_gdp,26,26,100.0,2000,2025
+VCT,St. Vincent and the Grenadines,fdi_pct_gdp,26,26,100.0,2000,2025
+VEN,"Venezuela, RB",fdi_pct_gdp,26,25,96.15,2000,2024
+VGB,British Virgin Islands,fdi_pct_gdp,26,0,0.0,,
+VIR,Virgin Islands (U.S.),fdi_pct_gdp,26,0,0.0,,
+VNM,Viet Nam,fdi_pct_gdp,26,25,96.15,2000,2024
+VUT,Vanuatu,fdi_pct_gdp,26,25,96.15,2000,2024
+WSM,Samoa,fdi_pct_gdp,26,26,100.0,2000,2025
+XKX,Kosovo,fdi_pct_gdp,26,18,69.23,2008,2025
+YEM,"Yemen, Rep.",fdi_pct_gdp,26,19,73.08,2000,2018
+ZAF,South Africa,fdi_pct_gdp,26,26,100.0,2000,2025
+ZMB,Zambia,fdi_pct_gdp,26,25,96.15,2000,2024
+ZWE,Zimbabwe,fdi_pct_gdp,26,25,96.15,2000,2024
+ABW,Aruba,trade_pct_gdp,26,25,96.15,2000,2024
+AFG,Afghanistan,trade_pct_gdp,26,5,19.23,2020,2024
+AGO,Angola,trade_pct_gdp,26,24,92.31,2002,2025
+ALB,Albania,trade_pct_gdp,26,26,100.0,2000,2025
+AND,Andorra,trade_pct_gdp,26,0,0.0,,
+ARE,United Arab Emirates,trade_pct_gdp,26,23,88.46,2001,2023
+ARG,Argentina,trade_pct_gdp,26,26,100.0,2000,2025
+ARM,Armenia,trade_pct_gdp,26,26,100.0,2000,2025
+ASM,American Samoa,trade_pct_gdp,26,21,80.77,2002,2022
+ATG,Antigua and Barbuda,trade_pct_gdp,26,9,34.62,2014,2022
+AUS,Australia,trade_pct_gdp,26,26,100.0,2000,2025
+AUT,Austria,trade_pct_gdp,26,26,100.0,2000,2025
+AZE,Azerbaijan,trade_pct_gdp,26,26,100.0,2000,2025
+BDI,Burundi,trade_pct_gdp,26,0,0.0,,
+BEL,Belgium,trade_pct_gdp,26,26,100.0,2000,2025
+BEN,Benin,trade_pct_gdp,26,26,100.0,2000,2025
+BFA,Burkina Faso,trade_pct_gdp,26,26,100.0,2000,2025
+BGD,Bangladesh,trade_pct_gdp,26,26,100.0,2000,2025
+BGR,Bulgaria,trade_pct_gdp,26,26,100.0,2000,2025
+BHR,Bahrain,trade_pct_gdp,26,25,96.15,2000,2024
+BHS,"Bahamas, The",trade_pct_gdp,26,25,96.15,2000,2024
+BIH,Bosnia and Herzegovina,trade_pct_gdp,26,26,100.0,2000,2025
+BLR,Belarus,trade_pct_gdp,26,26,100.0,2000,2025
+BLZ,Belize,trade_pct_gdp,26,25,96.15,2000,2024
+BMU,Bermuda,trade_pct_gdp,26,15,57.69,2010,2024
+BOL,Bolivia,trade_pct_gdp,26,25,96.15,2000,2024
+BRA,Brazil,trade_pct_gdp,26,26,100.0,2000,2025
+BRB,Barbados,trade_pct_gdp,26,0,0.0,,
+BRN,Brunei Darussalam,trade_pct_gdp,26,26,100.0,2000,2025
+BTN,Bhutan,trade_pct_gdp,26,25,96.15,2000,2024
+BWA,Botswana,trade_pct_gdp,26,26,100.0,2000,2025
+CAF,Central African Republic,trade_pct_gdp,26,26,100.0,2000,2025
+CAN,Canada,trade_pct_gdp,26,26,100.0,2000,2025
+CHE,Switzerland,trade_pct_gdp,26,26,100.0,2000,2025
+CHI,Channel Islands,trade_pct_gdp,26,0,0.0,,
+CHL,Chile,trade_pct_gdp,26,26,100.0,2000,2025
+CHN,China,trade_pct_gdp,26,26,100.0,2000,2025
+CIV,Cote d'Ivoire,trade_pct_gdp,26,26,100.0,2000,2025
+CMR,Cameroon,trade_pct_gdp,26,26,100.0,2000,2025
+COD,"Congo, Dem. Rep.",trade_pct_gdp,26,26,100.0,2000,2025
+COG,"Congo, Rep.",trade_pct_gdp,26,26,100.0,2000,2025
+COL,Colombia,trade_pct_gdp,26,26,100.0,2000,2025
+COM,Comoros,trade_pct_gdp,26,26,100.0,2000,2025
+CPV,Cabo Verde,trade_pct_gdp,26,26,100.0,2000,2025
+CRI,Costa Rica,trade_pct_gdp,26,26,100.0,2000,2025
+CUB,Cuba,trade_pct_gdp,26,25,96.15,2000,2024
+CUW,Curacao,trade_pct_gdp,26,14,53.85,2005,2018
+CYM,Cayman Islands,trade_pct_gdp,26,4,15.38,2017,2020
+CYP,Cyprus,trade_pct_gdp,26,26,100.0,2000,2025
+CZE,Czechia,trade_pct_gdp,26,26,100.0,2000,2025
+DEU,Germany,trade_pct_gdp,26,26,100.0,2000,2025
+DJI,Djibouti,trade_pct_gdp,26,13,50.0,2013,2025
+DMA,Dominica,trade_pct_gdp,26,0,0.0,,
+DNK,Denmark,trade_pct_gdp,26,26,100.0,2000,2025
+DOM,Dominican Republic,trade_pct_gdp,26,26,100.0,2000,2025
+DZA,Algeria,trade_pct_gdp,26,26,100.0,2000,2025
+ECU,Ecuador,trade_pct_gdp,26,26,100.0,2000,2025
+EGY,"Egypt, Arab Rep.",trade_pct_gdp,26,26,100.0,2000,2025
+ERI,Eritrea,trade_pct_gdp,26,12,46.15,2000,2011
+ESP,Spain,trade_pct_gdp,26,26,100.0,2000,2025
+EST,Estonia,trade_pct_gdp,26,26,100.0,2000,2025
+ETH,Ethiopia,trade_pct_gdp,26,15,57.69,2011,2025
+FIN,Finland,trade_pct_gdp,26,26,100.0,2000,2025
+FJI,Fiji,trade_pct_gdp,26,25,96.15,2000,2024
+FRA,France,trade_pct_gdp,26,26,100.0,2000,2025
+FRO,Faroe Islands,trade_pct_gdp,26,25,96.15,2000,2024
+FSM,"Micronesia, Fed. Sts.",trade_pct_gdp,26,26,100.0,2000,2025
+GAB,Gabon,trade_pct_gdp,26,26,100.0,2000,2025
+GBR,United Kingdom,trade_pct_gdp,26,26,100.0,2000,2025
+GEO,Georgia,trade_pct_gdp,26,26,100.0,2000,2025
+GHA,Ghana,trade_pct_gdp,26,25,96.15,2000,2024
+GIB,Gibraltar,trade_pct_gdp,26,0,0.0,,
+GIN,Guinea,trade_pct_gdp,26,26,100.0,2000,2025
+GMB,"Gambia, The",trade_pct_gdp,26,26,100.0,2000,2025
+GNB,Guinea-Bissau,trade_pct_gdp,26,26,100.0,2000,2025
+GNQ,Equatorial Guinea,trade_pct_gdp,26,21,80.77,2005,2025
+GRC,Greece,trade_pct_gdp,26,26,100.0,2000,2025
+GRD,Grenada,trade_pct_gdp,26,0,0.0,,
+GRL,Greenland,trade_pct_gdp,26,21,80.77,2003,2023
+GTM,Guatemala,trade_pct_gdp,26,26,100.0,2000,2025
+GUM,Guam,trade_pct_gdp,26,21,80.77,2002,2022
+GUY,Guyana,trade_pct_gdp,26,6,23.08,2000,2005
+HKG,"Hong Kong SAR, China",trade_pct_gdp,26,26,100.0,2000,2025
+HND,Honduras,trade_pct_gdp,26,26,100.0,2000,2025
+HRV,Croatia,trade_pct_gdp,26,26,100.0,2000,2025
+HTI,Haiti,trade_pct_gdp,26,26,100.0,2000,2025
+HUN,Hungary,trade_pct_gdp,26,26,100.0,2000,2025
+IDN,Indonesia,trade_pct_gdp,26,26,100.0,2000,2025
+IMN,Isle of Man,trade_pct_gdp,26,0,0.0,,
+IND,India,trade_pct_gdp,26,26,100.0,2000,2025
+IRL,Ireland,trade_pct_gdp,26,26,100.0,2000,2025
+IRN,"Iran, Islamic Rep.",trade_pct_gdp,26,26,100.0,2000,2025
+IRQ,Iraq,trade_pct_gdp,26,25,96.15,2000,2024
+ISL,Iceland,trade_pct_gdp,26,26,100.0,2000,2025
+ISR,Israel,trade_pct_gdp,26,26,100.0,2000,2025
+ITA,Italy,trade_pct_gdp,26,26,100.0,2000,2025
+JAM,Jamaica,trade_pct_gdp,26,0,0.0,,
+JOR,Jordan,trade_pct_gdp,26,8,30.77,2000,2007
+JPN,Japan,trade_pct_gdp,26,25,96.15,2000,2024
+KAZ,Kazakhstan,trade_pct_gdp,26,25,96.15,2000,2024
+KEN,Kenya,trade_pct_gdp,26,26,100.0,2000,2025
+KGZ,Kyrgyz Republic,trade_pct_gdp,26,26,100.0,2000,2025
+KHM,Cambodia,trade_pct_gdp,26,26,100.0,2000,2025
+KIR,Kiribati,trade_pct_gdp,26,25,96.15,2000,2024
+KNA,St. Kitts and Nevis,trade_pct_gdp,26,0,0.0,,
+KOR,"Korea, Rep.",trade_pct_gdp,26,26,100.0,2000,2025
+KWT,Kuwait,trade_pct_gdp,26,25,96.15,2000,2024
+LAO,Lao PDR,trade_pct_gdp,26,17,65.38,2000,2016
+LBN,Lebanon,trade_pct_gdp,26,25,96.15,2000,2024
+LBR,Liberia,trade_pct_gdp,26,0,0.0,,
+LBY,Libya,trade_pct_gdp,26,26,100.0,2000,2025
+LCA,St. Lucia,trade_pct_gdp,26,0,0.0,,
+LIE,Liechtenstein,trade_pct_gdp,26,0,0.0,,
+LKA,Sri Lanka,trade_pct_gdp,26,21,80.77,2000,2025
+LSO,Lesotho,trade_pct_gdp,26,19,73.08,2007,2025
+LTU,Lithuania,trade_pct_gdp,26,26,100.0,2000,2025
+LUX,Luxembourg,trade_pct_gdp,26,26,100.0,2000,2025
+LVA,Latvia,trade_pct_gdp,26,26,100.0,2000,2025
+MAC,"Macao SAR, China",trade_pct_gdp,26,26,100.0,2000,2025
+MAF,St. Martin (French part),trade_pct_gdp,26,0,0.0,,
+MAR,Morocco,trade_pct_gdp,26,26,100.0,2000,2025
+MCO,Monaco,trade_pct_gdp,26,0,0.0,,
+MDA,Moldova,trade_pct_gdp,26,26,100.0,2000,2025
+MDG,Madagascar,trade_pct_gdp,26,26,100.0,2000,2025
+MDV,Maldives,trade_pct_gdp,26,11,42.31,2014,2024
+MEX,Mexico,trade_pct_gdp,26,26,100.0,2000,2025
+MHL,Marshall Islands,trade_pct_gdp,26,26,100.0,2000,2025
+MKD,North Macedonia,trade_pct_gdp,26,26,100.0,2000,2025
+MLI,Mali,trade_pct_gdp,26,26,100.0,2000,2025
+MLT,Malta,trade_pct_gdp,26,26,100.0,2000,2025
+MMR,Myanmar,trade_pct_gdp,26,0,0.0,,
+MNE,Montenegro,trade_pct_gdp,26,26,100.0,2000,2025
+MNG,Mongolia,trade_pct_gdp,26,26,100.0,2000,2025
+MNP,Northern Mariana Islands,trade_pct_gdp,26,21,80.77,2002,2022
+MOZ,Mozambique,trade_pct_gdp,26,26,100.0,2000,2025
+MRT,Mauritania,trade_pct_gdp,26,26,100.0,2000,2025
+MUS,Mauritius,trade_pct_gdp,26,26,100.0,2000,2025
+MWI,Malawi,trade_pct_gdp,26,9,34.62,2017,2025
+MYS,Malaysia,trade_pct_gdp,26,26,100.0,2000,2025
+NAM,Namibia,trade_pct_gdp,26,26,100.0,2000,2025
+NCL,New Caledonia,trade_pct_gdp,26,25,96.15,2000,2024
+NER,Niger,trade_pct_gdp,26,26,100.0,2000,2025
+NGA,Nigeria,trade_pct_gdp,26,0,0.0,,
+NIC,Nicaragua,trade_pct_gdp,26,26,100.0,2000,2025
+NLD,Netherlands,trade_pct_gdp,26,26,100.0,2000,2025
+NOR,Norway,trade_pct_gdp,26,26,100.0,2000,2025
+NPL,Nepal,trade_pct_gdp,26,26,100.0,2000,2025
+NRU,Naoero,trade_pct_gdp,26,18,69.23,2008,2025
+NZL,New Zealand,trade_pct_gdp,26,25,96.15,2000,2024
+OMN,Oman,trade_pct_gdp,26,25,96.15,2000,2024
+PAK,Pakistan,trade_pct_gdp,26,26,100.0,2000,2025
+PAN,Panama,trade_pct_gdp,26,25,96.15,2000,2024
+PER,Peru,trade_pct_gdp,26,26,100.0,2000,2025
+PHL,Philippines,trade_pct_gdp,26,26,100.0,2000,2025
+PLW,Palau,trade_pct_gdp,26,20,76.92,2005,2024
+PNG,Papua New Guinea,trade_pct_gdp,26,5,19.23,2000,2004
+POL,Poland,trade_pct_gdp,26,26,100.0,2000,2025
+PRI,Puerto Rico (US),trade_pct_gdp,26,26,100.0,2000,2025
+PRK,"Korea, Dem. People's Rep.",trade_pct_gdp,26,0,0.0,,
+PRT,Portugal,trade_pct_gdp,26,26,100.0,2000,2025
+PRY,Paraguay,trade_pct_gdp,26,26,100.0,2000,2025
+PSE,West Bank and Gaza,trade_pct_gdp,26,26,100.0,2000,2025
+PYF,French Polynesia,trade_pct_gdp,26,21,80.77,2000,2024
+QAT,Qatar,trade_pct_gdp,26,23,88.46,2000,2022
+ROU,Romania,trade_pct_gdp,26,26,100.0,2000,2025
+RUS,Russian Federation,trade_pct_gdp,26,26,100.0,2000,2025
+RWA,Rwanda,trade_pct_gdp,26,26,100.0,2000,2025
+SAU,Saudi Arabia,trade_pct_gdp,26,26,100.0,2000,2025
+SDN,Sudan,trade_pct_gdp,26,26,100.0,2000,2025
+SEN,Senegal,trade_pct_gdp,26,26,100.0,2000,2025
+SGP,Singapore,trade_pct_gdp,26,26,100.0,2000,2025
+SLB,Solomon Islands,trade_pct_gdp,26,25,96.15,2000,2024
+SLE,Sierra Leone,trade_pct_gdp,26,26,100.0,2000,2025
+SLV,El Salvador,trade_pct_gdp,26,26,100.0,2000,2025
+SMR,San Marino,trade_pct_gdp,26,9,34.62,2015,2023
+SOM,"Somalia, Fed. Rep.",trade_pct_gdp,26,14,53.85,2012,2025
+SRB,Serbia,trade_pct_gdp,26,26,100.0,2000,2025
+SSD,South Sudan,trade_pct_gdp,26,8,30.77,2008,2015
+STP,Sao Tome and Principe,trade_pct_gdp,26,18,69.23,2008,2025
+SUR,Suriname,trade_pct_gdp,26,5,19.23,2006,2010
+SVK,Slovak Republic,trade_pct_gdp,26,26,100.0,2000,2025
+SVN,Slovenia,trade_pct_gdp,26,26,100.0,2000,2025
+SWE,Sweden,trade_pct_gdp,26,26,100.0,2000,2025
+SWZ,Eswatini,trade_pct_gdp,26,12,46.15,2013,2024
+SXM,Sint Maarten (Dutch part),trade_pct_gdp,26,0,0.0,,
+SYC,Seychelles,trade_pct_gdp,26,26,100.0,2000,2025
+SYR,Syrian Arab Republic,trade_pct_gdp,26,23,88.46,2000,2022
+TCA,Turks and Caicos Islands,trade_pct_gdp,26,0,0.0,,
+TCD,Chad,trade_pct_gdp,26,26,100.0,2000,2025
+TGO,Togo,trade_pct_gdp,26,24,92.31,2000,2023
+THA,Thailand,trade_pct_gdp,26,26,100.0,2000,2025
+TJK,Tajikistan,trade_pct_gdp,26,25,96.15,2000,2024
+TKM,Turkmenistan,trade_pct_gdp,26,26,100.0,2000,2025
+TLS,Timor-Leste,trade_pct_gdp,26,25,96.15,2000,2024
+TON,Tonga,trade_pct_gdp,26,25,96.15,2000,2024
+TTO,Trinidad and Tobago,trade_pct_gdp,26,0,0.0,,
+TUN,Tunisia,trade_pct_gdp,26,26,100.0,2000,2025
+TUR,Turkiye,trade_pct_gdp,26,26,100.0,2000,2025
+TUV,Tuvalu,trade_pct_gdp,26,0,0.0,,
+TZA,Tanzania,trade_pct_gdp,26,26,100.0,2000,2025
+UGA,Uganda,trade_pct_gdp,26,26,100.0,2000,2025
+UKR,Ukraine,trade_pct_gdp,26,26,100.0,2000,2025
+URY,Uruguay,trade_pct_gdp,26,26,100.0,2000,2025
+USA,United States,trade_pct_gdp,26,25,96.15,2000,2024
+UZB,Uzbekistan,trade_pct_gdp,26,26,100.0,2000,2025
+VCT,St. Vincent and the Grenadines,trade_pct_gdp,26,0,0.0,,
+VEN,"Venezuela, RB",trade_pct_gdp,26,26,100.0,2000,2025
+VGB,British Virgin Islands,trade_pct_gdp,26,0,0.0,,
+VIR,Virgin Islands (U.S.),trade_pct_gdp,26,21,80.77,2002,2022
+VNM,Viet Nam,trade_pct_gdp,26,26,100.0,2000,2025
+VUT,Vanuatu,trade_pct_gdp,26,25,96.15,2000,2024
+WSM,Samoa,trade_pct_gdp,26,24,92.31,2002,2025
+XKX,Kosovo,trade_pct_gdp,26,18,69.23,2008,2025
+YEM,"Yemen, Rep.",trade_pct_gdp,26,19,73.08,2000,2018
+ZAF,South Africa,trade_pct_gdp,26,26,100.0,2000,2025
+ZMB,Zambia,trade_pct_gdp,26,25,96.15,2000,2024
+ZWE,Zimbabwe,trade_pct_gdp,26,25,96.15,2000,2024
+ABW,Aruba,youth_labor_force_participation_pct,26,0,0.0,,
+AFG,Afghanistan,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+AGO,Angola,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ALB,Albania,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+AND,Andorra,youth_labor_force_participation_pct,26,0,0.0,,
+ARE,United Arab Emirates,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ARG,Argentina,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ARM,Armenia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ASM,American Samoa,youth_labor_force_participation_pct,26,0,0.0,,
+ATG,Antigua and Barbuda,youth_labor_force_participation_pct,26,0,0.0,,
+AUS,Australia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+AUT,Austria,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+AZE,Azerbaijan,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BDI,Burundi,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BEL,Belgium,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BEN,Benin,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BFA,Burkina Faso,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BGD,Bangladesh,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BGR,Bulgaria,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BHR,Bahrain,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BHS,"Bahamas, The",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BIH,Bosnia and Herzegovina,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BLR,Belarus,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BLZ,Belize,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BMU,Bermuda,youth_labor_force_participation_pct,26,0,0.0,,
+BOL,Bolivia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BRA,Brazil,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BRB,Barbados,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BRN,Brunei Darussalam,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BTN,Bhutan,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+BWA,Botswana,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CAF,Central African Republic,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CAN,Canada,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CHE,Switzerland,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CHI,Channel Islands,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CHL,Chile,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CHN,China,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CIV,Cote d'Ivoire,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CMR,Cameroon,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+COD,"Congo, Dem. Rep.",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+COG,"Congo, Rep.",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+COL,Colombia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+COM,Comoros,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CPV,Cabo Verde,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CRI,Costa Rica,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CUB,Cuba,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CUW,Curacao,youth_labor_force_participation_pct,26,0,0.0,,
+CYM,Cayman Islands,youth_labor_force_participation_pct,26,0,0.0,,
+CYP,Cyprus,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+CZE,Czechia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+DEU,Germany,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+DJI,Djibouti,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+DMA,Dominica,youth_labor_force_participation_pct,26,0,0.0,,
+DNK,Denmark,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+DOM,Dominican Republic,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+DZA,Algeria,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ECU,Ecuador,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+EGY,"Egypt, Arab Rep.",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ERI,Eritrea,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ESP,Spain,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+EST,Estonia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ETH,Ethiopia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+FIN,Finland,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+FJI,Fiji,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+FRA,France,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+FRO,Faroe Islands,youth_labor_force_participation_pct,26,0,0.0,,
+FSM,"Micronesia, Fed. Sts.",youth_labor_force_participation_pct,26,0,0.0,,
+GAB,Gabon,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+GBR,United Kingdom,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+GEO,Georgia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+GHA,Ghana,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+GIB,Gibraltar,youth_labor_force_participation_pct,26,0,0.0,,
+GIN,Guinea,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+GMB,"Gambia, The",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+GNB,Guinea-Bissau,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+GNQ,Equatorial Guinea,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+GRC,Greece,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+GRD,Grenada,youth_labor_force_participation_pct,26,0,0.0,,
+GRL,Greenland,youth_labor_force_participation_pct,26,0,0.0,,
+GTM,Guatemala,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+GUM,Guam,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+GUY,Guyana,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+HKG,"Hong Kong SAR, China",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+HND,Honduras,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+HRV,Croatia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+HTI,Haiti,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+HUN,Hungary,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+IDN,Indonesia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+IMN,Isle of Man,youth_labor_force_participation_pct,26,0,0.0,,
+IND,India,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+IRL,Ireland,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+IRN,"Iran, Islamic Rep.",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+IRQ,Iraq,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ISL,Iceland,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ISR,Israel,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ITA,Italy,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+JAM,Jamaica,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+JOR,Jordan,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+JPN,Japan,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+KAZ,Kazakhstan,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+KEN,Kenya,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+KGZ,Kyrgyz Republic,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+KHM,Cambodia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+KIR,Kiribati,youth_labor_force_participation_pct,26,0,0.0,,
+KNA,St. Kitts and Nevis,youth_labor_force_participation_pct,26,0,0.0,,
+KOR,"Korea, Rep.",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+KWT,Kuwait,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+LAO,Lao PDR,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+LBN,Lebanon,youth_labor_force_participation_pct,26,24,92.31,2000,2023
+LBR,Liberia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+LBY,Libya,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+LCA,St. Lucia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+LIE,Liechtenstein,youth_labor_force_participation_pct,26,0,0.0,,
+LKA,Sri Lanka,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+LSO,Lesotho,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+LTU,Lithuania,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+LUX,Luxembourg,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+LVA,Latvia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MAC,"Macao SAR, China",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MAF,St. Martin (French part),youth_labor_force_participation_pct,26,0,0.0,,
+MAR,Morocco,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MCO,Monaco,youth_labor_force_participation_pct,26,0,0.0,,
+MDA,Moldova,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MDG,Madagascar,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MDV,Maldives,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MEX,Mexico,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MHL,Marshall Islands,youth_labor_force_participation_pct,26,0,0.0,,
+MKD,North Macedonia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MLI,Mali,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MLT,Malta,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MMR,Myanmar,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MNE,Montenegro,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MNG,Mongolia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MNP,Northern Mariana Islands,youth_labor_force_participation_pct,26,0,0.0,,
+MOZ,Mozambique,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MRT,Mauritania,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MUS,Mauritius,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MWI,Malawi,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+MYS,Malaysia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+NAM,Namibia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+NCL,New Caledonia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+NER,Niger,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+NGA,Nigeria,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+NIC,Nicaragua,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+NLD,Netherlands,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+NOR,Norway,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+NPL,Nepal,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+NRU,Naoero,youth_labor_force_participation_pct,26,0,0.0,,
+NZL,New Zealand,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+OMN,Oman,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+PAK,Pakistan,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+PAN,Panama,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+PER,Peru,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+PHL,Philippines,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+PLW,Palau,youth_labor_force_participation_pct,26,0,0.0,,
+PNG,Papua New Guinea,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+POL,Poland,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+PRI,Puerto Rico (US),youth_labor_force_participation_pct,26,26,100.0,2000,2025
+PRK,"Korea, Dem. People's Rep.",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+PRT,Portugal,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+PRY,Paraguay,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+PSE,West Bank and Gaza,youth_labor_force_participation_pct,26,23,88.46,2000,2022
+PYF,French Polynesia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+QAT,Qatar,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ROU,Romania,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+RUS,Russian Federation,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+RWA,Rwanda,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SAU,Saudi Arabia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SDN,Sudan,youth_labor_force_participation_pct,26,23,88.46,2000,2022
+SEN,Senegal,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SGP,Singapore,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SLB,Solomon Islands,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SLE,Sierra Leone,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SLV,El Salvador,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SMR,San Marino,youth_labor_force_participation_pct,26,0,0.0,,
+SOM,"Somalia, Fed. Rep.",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SRB,Serbia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SSD,South Sudan,youth_labor_force_participation_pct,26,24,92.31,2000,2023
+STP,Sao Tome and Principe,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SUR,Suriname,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SVK,Slovak Republic,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SVN,Slovenia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SWE,Sweden,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SWZ,Eswatini,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+SXM,Sint Maarten (Dutch part),youth_labor_force_participation_pct,26,0,0.0,,
+SYC,Seychelles,youth_labor_force_participation_pct,26,0,0.0,,
+SYR,Syrian Arab Republic,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+TCA,Turks and Caicos Islands,youth_labor_force_participation_pct,26,0,0.0,,
+TCD,Chad,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+TGO,Togo,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+THA,Thailand,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+TJK,Tajikistan,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+TKM,Turkmenistan,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+TLS,Timor-Leste,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+TON,Tonga,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+TTO,Trinidad and Tobago,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+TUN,Tunisia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+TUR,Turkiye,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+TUV,Tuvalu,youth_labor_force_participation_pct,26,0,0.0,,
+TZA,Tanzania,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+UGA,Uganda,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+UKR,Ukraine,youth_labor_force_participation_pct,26,22,84.62,2000,2021
+URY,Uruguay,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+USA,United States,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+UZB,Uzbekistan,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+VCT,St. Vincent and the Grenadines,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+VEN,"Venezuela, RB",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+VGB,British Virgin Islands,youth_labor_force_participation_pct,26,0,0.0,,
+VIR,Virgin Islands (U.S.),youth_labor_force_participation_pct,26,26,100.0,2000,2025
+VNM,Viet Nam,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+VUT,Vanuatu,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+WSM,Samoa,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+XKX,Kosovo,youth_labor_force_participation_pct,26,0,0.0,,
+YEM,"Yemen, Rep.",youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ZAF,South Africa,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ZMB,Zambia,youth_labor_force_participation_pct,26,26,100.0,2000,2025
+ZWE,Zimbabwe,youth_labor_force_participation_pct,26,26,100.0,2000,2025
