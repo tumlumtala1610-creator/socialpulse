@@ -1,0 +1,61 @@
+Source run: panel_20261006T035732388125Z
+Total country-year rows: 5642
+
+NETHERLANDS: MISSING YEARS
+youth_unemployment_pct: []
+gdp_growth_pct: []
+inflation_pct: []
+fdi_pct_gdp: [2025]
+trade_pct_gdp: []
+youth_labor_force_participation_pct: []
+
+JOINT COVERAGE
+Rows with all six indicators: 3825/5642
+Joint coverage: 67.80%
+
+RECENT YEARS: AVAILABLE VALUES
+
+Year 2021: 217 countries/economies
+  youth_unemployment_pct: 187/217
+  gdp_growth_pct: 210/217
+  inflation_pct: 178/217
+  fdi_pct_gdp: 196/217
+  trade_pct_gdp: 183/217
+  youth_labor_force_participation_pct: 187/217
+  All six indicators together: 155/217
+
+Year 2022: 217 countries/economies
+  youth_unemployment_pct: 186/217
+  gdp_growth_pct: 209/217
+  inflation_pct: 178/217
+  fdi_pct_gdp: 195/217
+  trade_pct_gdp: 183/217
+  youth_labor_force_participation_pct: 186/217
+  All six indicators together: 153/217
+
+Year 2023: 217 countries/economies
+  youth_unemployment_pct: 184/217
+  gdp_growth_pct: 204/217
+  inflation_pct: 176/217
+  fdi_pct_gdp: 195/217
+  trade_pct_gdp: 176/217
+  youth_labor_force_participation_pct: 184/217
+  All six indicators together: 149/217
+
+Year 2024: 217 countries/economies
+  youth_unemployment_pct: 182/217
+  gdp_growth_pct: 200/217
+  inflation_pct: 174/217
+  fdi_pct_gdp: 192/217
+  trade_pct_gdp: 172/217
+  youth_labor_force_participation_pct: 182/217
+  All six indicators together: 144/217
+
+Year 2025: 217 countries/economies
+  youth_unemployment_pct: 182/217
+  gdp_growth_pct: 186/217
+  inflation_pct: 165/217
+  fdi_pct_gdp: 97/217
+  trade_pct_gdp: 138/217
+  youth_labor_force_participation_pct: 182/217
+  All six indicators together: 69/217
