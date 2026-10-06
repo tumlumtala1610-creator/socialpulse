@@ -101,8 +101,9 @@ st.info(
     "This dashboard does not assign operational risk categories."
 )
 
-overview, quality, evaluation = st.tabs([
+overview, analogues, quality, evaluation = st.tabs([
     "Country overview",
+    "Historical analogues",
     "Data quality",
     "Model evaluation",
 ])
@@ -130,10 +131,20 @@ with overview:
         country_data["year"] <= selected_year
     ][["year", indicator]].copy()
 
-    st.caption(labels[indicator])
+    st.caption(
+        f"{labels[indicator]} · Through reference year {int(selected_year)}"
+    )
 
     if history[indicator].notna().any():
-        st.line_chart(history.set_index("year"), height=340)
+        chart_data = history.copy()
+
+        # Treat years as ordered labels rather than continuous numbers.
+        chart_data["year"] = chart_data["year"].astype(int).astype(str)
+
+        st.line_chart(
+            chart_data.set_index("year"),
+            height=340,
+        )
     else:
         st.write("No available values for this indicator and period.")
 
@@ -143,6 +154,16 @@ with overview:
         "youth employment difficulty."
     )
 
+    first_year = int(country_data["year"].min())
+    last_year = int(country_data["year"].max())
+
+    st.subheader("Full history — all available years")
+    st.caption(
+        f"The table and CSV download include {first_year}–{last_year}, "
+        f"including years after {int(selected_year)} when available. "
+        "The reference-year selection applies to the metrics and chart above."
+    )
+
     display_data = country_data[
         ["year", *labels.keys()]
     ].rename(columns=labels)
@@ -150,9 +171,12 @@ with overview:
     st.dataframe(display_data, hide_index=True)
 
     st.download_button(
-        "Download this country's data",
+        "Download full country history (CSV)",
         data=country_data.to_csv(index=False).encode("utf-8"),
-        file_name=f"{selected_country}_historical_data.csv",
+        file_name=(
+            f"{selected_country}_full_history_"
+            f"{first_year}_{last_year}.csv"
+        ),
         mime="text/csv",
     )
 
@@ -185,6 +209,19 @@ with quality:
     st.caption(f"Dataset snapshot: {run_id}")
 
 with evaluation:
+    st.subheader("Model evaluation across countries")
+    st.info(
+        "These results cover all evaluated countries and economies "
+        "for test origin years 2022–2023. "
+        "They do not change with the country or reference year selected "
+        "in the sidebar."
+    )
+    st.caption(
+        "A test origin year is the starting year of a two-year outcome window: "
+        "2022 evaluates outcomes in 2023–2024, "
+        "and 2023 evaluates outcomes in 2024–2025."
+    )
+
     threshold = config["primary_threshold_pp"]
 
     st.write(
@@ -203,7 +240,39 @@ with evaluation:
         metrics = pd.read_csv(metrics_path)
 
         st.subheader("Reserved test results")
-        st.dataframe(metrics, hide_index=True)
+
+        metrics_display = metrics.copy()
+
+        # Format proportions as percentages for display only.
+        for name in ["event_rate", "mean_probability"]:
+            if name in metrics_display.columns:
+                metrics_display[name] = metrics_display[name].map(
+                    lambda value: (
+                        "No data" if pd.isna(value) else f"{value:.2%}"
+                    )
+                )
+
+        # Keep evaluation scores as decimal numbers.
+        for name in ["average_precision", "brier_score", "log_loss"]:
+            if name in metrics_display.columns:
+                metrics_display[name] = metrics_display[name].map(
+                    lambda value: (
+                        "No data" if pd.isna(value) else f"{value:.4f}"
+                    )
+                )
+
+        metrics_display = metrics_display.rename(columns={
+            "year": "Test origin year",
+            "model": "Model",
+            "rows": "Evaluated country windows",
+            "event_rate": "Observed event rate",
+            "average_precision": "Average precision (AP)",
+            "brier_score": "Brier score",
+            "log_loss": "Log loss",
+            "mean_probability": "Mean predicted probability",
+        })
+
+        st.dataframe(metrics_display, hide_index=True)
 
         st.caption(
             "Higher average precision is better for ranking. "
@@ -221,7 +290,24 @@ with evaluation:
                 summary["positive_windows"] / summary["selected_windows"]
             )
             st.write("Results among the ten highest-ranked countries")
-            st.dataframe(summary)
+
+            summary_display = summary.reset_index().copy()
+            summary_display["precision_at_10"] = (
+                summary_display["precision_at_10"].map(
+                    lambda value: (
+                        "No data" if pd.isna(value) else f"{value:.2%}"
+                    )
+                )
+            )
+
+            summary_display = summary_display.rename(columns={
+                "origin_year": "Test origin year",
+                "selected_windows": "Selected country windows",
+                "positive_windows": "Windows meeting event definition",
+                "precision_at_10": "Precision at 10",
+            })
+
+            st.dataframe(summary_display, hide_index=True)
 
         st.warning(
             "In the first final evaluation, neither year's top 10 "
@@ -239,15 +325,16 @@ with evaluation:
         "windows are not independent events."
     )
 
+with analogues:
+    analogue_tools = runpy.run_path(
+        str(ROOT / "app" / "13_historical_analogues.py")
+    )
+
+    analogue_tools["render_analogues"](
+        panel,
+        selected_country,
+        int(selected_year),
+        float(config["primary_threshold_pp"]),
+    )
+
 st.caption("Source: World Bank Indicators API · Research prototype")
-
-analogue_tools = runpy.run_path(
-    str(ROOT / "app" / "13_historical_analogues.py")
-)
-
-analogue_tools["render_analogues"](
-    panel,
-    selected_country,
-    int(selected_year),
-    float(config["primary_threshold_pp"]),
-)
